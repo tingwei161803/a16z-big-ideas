@@ -1,0 +1,274 @@
+[
+  {
+    "slug": "2026-building-the-ai-native-industrial-base",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "american-dynamism",
+    "title": {
+      "en": "Building the AI-native industrial base",
+      "zh": "打造 AI 原生的工業基礎"
+    },
+    "author": "David Ulevitch",
+    "summary": {
+      "en": "America's economic foundation is shifting toward an industrial base that is AI-native and software-first, with companies starting from simulation, automated design, and AI-driven operations rather than modernizing legacy systems. This creates opportunities across advanced energy, robotics, heavy manufacturing, mining, and biological processes, where AI can design cleaner reactors, optimize extraction, engineer better enzymes, and coordinate fleets of autonomous machines. The same principles extend to infrastructure monitoring via autonomous sensors and drones that deliver real-time visibility into ports, power lines, and datacenters.",
+      "zh": "美國的經濟根基正轉向一個以 AI 為原生、軟體優先的工業基礎,企業從模擬、自動化設計與 AI 驅動的營運出發,而非僅僅翻新既有的老舊系統。這在先進能源、機器人、重工業製造、採礦與生物製程等領域創造出新機會,AI 能設計更潔淨的反應爐、優化開採、改良酵素,並協調成群的自主機具。同樣的原則也延伸到基礎設施監測,透過自主感測器與無人機,對港口、電力線路與資料中心等關鍵系統提供即時可視性。"
+    },
+    "tags": ["industrial", "ai-native", "manufacturing", "infrastructure"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-the-renaissance-of-the-american-factory",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "american-dynamism",
+    "title": {
+      "en": "The renaissance of the American factory",
+      "zh": "美國工廠的復興"
+    },
+    "author": "Erin Price-Wright",
+    "summary": {
+      "en": "Manufacturing is being reborn with AI and software at its core, as companies adopt a factory mindset to tackle energy, mining, construction, and manufacturing by deploying AI and autonomy alongside human workers to make complex processes run like assembly lines. Key capabilities include navigating regulation quickly, accelerating design cycles, managing large-scale coordination, and automating difficult tasks. By applying Ford's principles of scale and repeatability with modern AI, the nation will produce nuclear reactors, housing, and datacenters at unprecedented speed.",
+      "zh": "製造業正以 AI 與軟體為核心重生,企業採用「工廠思維」來應對能源、採礦、營建與製造,讓 AI 與自主系統與人類工作者並肩運作,使複雜流程像生產線一樣運轉。關鍵能力包括快速因應法規、加速設計週期、管理大規模協調,以及自動化高難度任務。透過將福特的規模化與可重複性原則結合現代 AI,美國將以前所未有的速度生產核反應爐、住宅與資料中心。"
+    },
+    "tags": ["manufacturing", "factory", "automation", "autonomy"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-the-next-wave-of-observability-will-be-physical-not-digital",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "american-dynamism",
+    "title": {
+      "en": "The next wave of observability will be physical, not digital",
+      "zh": "下一波可觀測性浪潮將是實體的,而非數位的"
+    },
+    "author": "Zabie Elmgren",
+    "summary": {
+      "en": "Over the past decade, software observability transformed digital systems; now physical observability is emerging, allowing us to understand cities, power grids, and infrastructure in real time using over a billion networked cameras and sensors already deployed. This shift will enable next-generation robotics and autonomy. Winners, however, must build privacy-preserving, interoperable, AI-native systems that make society legible without compromising freedom, balancing innovation against genuine security concerns.",
+      "zh": "過去十年,軟體可觀測性徹底改變了數位系統;如今實體可觀測性正在興起,讓我們能運用已部署的逾十億台聯網攝影機與感測器,即時掌握城市、電網與基礎設施。這場變革將為新一代機器人與自主技術鋪路。然而,勝出者必須打造兼顧隱私保護、互通性與 AI 原生的系統,在不犧牲自由的前提下讓社會變得可被理解,並在創新與真實的安全顧慮之間取得平衡。"
+    },
+    "tags": ["observability", "sensors", "infrastructure", "privacy"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-the-electro-industrial-stack-will-move-the-world",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "american-dynamism",
+    "title": {
+      "en": "The electro-industrial stack will move the world",
+      "zh": "電氣工業堆疊將驅動世界運轉"
+    },
+    "author": "Ryan McEntush",
+    "summary": {
+      "en": "The next industrial revolution lies in the convergence of electrification, materials, and AI, bringing software control to physical machinery. The electro-industrial stack, spanning electric vehicles, drones, datacenters, and manufacturing, connects refined minerals, stored energy, directed electricity, precision motors, and coordinating software. Building this foundation domestically is critical, because the nations that master the electro-industrial stack will define the future of industrial and military technologies.",
+      "zh": "下一場工業革命在於電氣化、材料與 AI 的匯流,將軟體控制帶入實體機械之中。電氣工業堆疊橫跨電動車、無人機、資料中心與製造,串接精煉礦物、儲存能源、導引電力、精密馬達與協調軟體。在本土打造這套基礎至關重要,因為掌握電氣工業堆疊的國家,將定義工業與軍事技術的未來。"
+    },
+    "tags": ["electrification", "energy", "materials", "manufacturing"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-autonomous-labs-accelerate-scientific-discovery",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "american-dynamism",
+    "title": {
+      "en": "Autonomous labs accelerate scientific discovery",
+      "zh": "自主實驗室加速科學發現"
+    },
+    "author": "Oliver Hsu",
+    "summary": {
+      "en": "As AI and robotics capabilities advance across modalities, teams will pursue autonomous scientific discovery through labs that close the loop from hypothesis to experiment to results. These interdisciplinary operations will combine expertise in AI, robotics, the physical and life sciences, manufacturing, and operations to enable continuous experimentation through lights-out labs across fields.",
+      "zh": "隨著 AI 與機器人能力在各種模態上不斷進步,團隊將透過能從假設、實驗到結果形成閉環的實驗室,推動自主科學發現。這些跨領域的營運將整合 AI、機器人、物理與生命科學、製造與營運的專業,藉由橫跨各領域、無需人力值守的「熄燈實驗室」,實現持續不間斷的實驗。"
+    },
+    "tags": ["autonomous-labs", "science", "robotics", "research"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-data-crusade-in-our-critical-industries",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "american-dynamism",
+    "title": {
+      "en": "Data crusade in our critical industries",
+      "zh": "關鍵產業的資料聖戰"
+    },
+    "author": "Will Bitsky",
+    "summary": {
+      "en": "Critical industries generate massive amounts of unstructured data, from truck rolls and meter reads to maintenance jobs and production runs, that remains largely uncaptured. Industrial companies with existing infrastructure have a comparative advantage in collecting this data at near-zero marginal cost and can train owned models or license to third parties. Startups will emerge to provide coordination tools, including collection software, annotation capabilities, sensor hardware, and eventually autonomous machines.",
+      "zh": "關鍵產業每天產生大量非結構化資料,從派車出勤、抄表讀數,到維修工單與生產批次,卻大多未被擷取。擁有既有基礎設施的工業公司,在以近乎零的邊際成本蒐集這些資料上具有比較優勢,並可訓練自有模型或授權給第三方。將會出現新創公司提供協調工具,包括蒐集軟體、標註能力、感測器硬體,乃至最終的自主機具。"
+    },
+    "tags": ["data", "industrial", "sensors", "models"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-ai-reinforces-business-models",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "apps",
+    "title": {
+      "en": "AI reinforces business models",
+      "zh": "AI 強化商業模式本身"
+    },
+    "author": "David Haber",
+    "summary": {
+      "en": "The best AI startups amplify customer economics rather than merely automating tasks. Firms like Eve, for example, use proprietary data to predict case success in contingency-based law, helping firms choose better cases and win more often. AI strengthens the business model itself, driving more revenue rather than just lowering costs, and this logic extends across industries as AI deepens alignment with customer incentives.",
+      "zh": "最優秀的 AI 新創不只是自動化任務,而是放大客戶的經濟效益。例如 Eve 這類公司運用專有資料,在按勝訴比例收費的法律業務中預測案件勝率,協助事務所挑選更好的案件並更常勝訴。AI 強化的是商業模式本身,帶來的是更多營收,而不只是更低的成本;隨著 AI 與客戶誘因日益契合,這套邏輯將擴展到各行各業。"
+    },
+    "tags": ["business-model", "revenue", "legal", "data"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-chatgpt-becomes-the-ai-app-store",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "apps",
+    "title": {
+      "en": "ChatGPT becomes the AI app store",
+      "zh": "ChatGPT 成為 AI 應用商店"
+    },
+    "author": "Anish Acharya",
+    "summary": {
+      "en": "Consumer product cycles require new technology, new behavior, and new distribution. With the OpenAI Apps SDK, Apple's mini-app support, and ChatGPT's group messaging rollout, consumer developers can now tap ChatGPT's 900 million users directly. This new distribution channel will spark a once-in-a-decade gold rush in consumer tech in 2026.",
+      "zh": "消費性產品週期需要三項要素:新技術、新行為與新通路。隨著 OpenAI Apps SDK、Apple 對迷你應用的支援,以及 ChatGPT 群組訊息功能的推出,消費端開發者如今能直接觸及 ChatGPT 的 9 億名使用者。這條全新的分發通路,將在 2026 年點燃消費科技領域十年一遇的淘金熱。"
+    },
+    "tags": ["chatgpt", "consumer", "distribution", "app-store"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-voice-agents-take-up-space",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "apps",
+    "title": {
+      "en": "Voice agents take up space",
+      "zh": "語音代理開始攻城掠地"
+    },
+    "author": "Olivia Moore",
+    "summary": {
+      "en": "AI voice agents managing real business interactions have moved from science fiction to reality, with thousands of companies now using voice AI for scheduling, bookings, surveys, and intakes, cutting costs while freeing employees for higher-value work. Currently in the voice-as-a-wedge phase, these agents will expand to handle entire workflows and customer relationship cycles as the underlying models improve and agents can operate across systems.",
+      "zh": "處理真實商業互動的 AI 語音代理已從科幻走入現實,如今已有數千家公司運用語音 AI 來安排行程、處理預約、進行問卷與接案受理,既降低成本,又讓員工得以投入更高價值的工作。目前語音代理仍處於「以語音作為切入點」的階段,但隨著底層模型持續進步、代理能夠跨系統運作,它們將擴展到接管整個工作流程與客戶關係循環。"
+    },
+    "tags": ["voice-ai", "agents", "automation", "customer-service"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-prompt-free-and-proactive-applications-arrive",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "apps",
+    "title": {
+      "en": "Prompt-free and proactive applications arrive",
+      "zh": "免提示、主動式的應用程式登場"
+    },
+    "author": "Marc Andrusko",
+    "summary": {
+      "en": "The prompt box dies in 2026 as mainstream AI apps eliminate visible prompting, and instead observe user actions and intervene proactively with suggested actions for review. Your IDE suggests the refactor before you ask, and your CRM drafts the follow-up email when you finish a call. AI becomes invisible scaffolding woven through workflows, activated by intent rather than instruction.",
+      "zh": "2026 年,提示框將走入歷史,主流 AI 應用不再依賴可見的提示輸入,而是觀察使用者的行為,主動介入並提出建議動作供人審核。你的 IDE 會在你開口前就建議重構,你的 CRM 會在你結束通話時自動草擬後續追蹤郵件。AI 化為交織在工作流程中的隱形支架,由意圖而非指令來觸發。"
+    },
+    "tags": ["proactive-ai", "prompt-free", "workflow", "ux"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-ai-will-finally-upgrade-banking-and-insurance-infrastructure",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "apps",
+    "title": {
+      "en": "AI will finally upgrade banking and insurance infrastructure",
+      "zh": "AI 終將升級銀行與保險的基礎設施"
+    },
+    "author": "Angela Strange",
+    "summary": {
+      "en": "While banks have layered AI atop legacy systems, true transformation requires rebuilding the underlying infrastructure. In 2026 the risk of not modernizing will outweigh the risk of failure, prompting large institutions to abandon legacy vendor contracts for AI-native alternatives that normalize data and enable streamlined, parallelized workflows. The future of financial services is not about applying AI to old systems, but about building a new operating system where AI is the foundation.",
+      "zh": "雖然銀行已在老舊系統之上疊加 AI,但真正的轉型需要重建底層基礎設施。2026 年,不現代化的風險將超過轉型失敗的風險,促使大型機構放棄與既有供應商的合約,轉向能夠標準化資料、並實現精簡且可平行處理工作流程的 AI 原生替代方案。金融服務的未來,不在於把 AI 套用到舊系統上,而在於打造一套以 AI 為根基的全新作業系統。"
+    },
+    "tags": ["fintech", "banking", "insurance", "infrastructure"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-forward-deployed-motions-take-ai-to-the-99-percent",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "apps",
+    "title": {
+      "en": "Forward-deployed motions take AI to the 99%",
+      "zh": "前進部署模式將 AI 帶給其餘 99% 的企業"
+    },
+    "author": "Joe Schmidt",
+    "summary": {
+      "en": "Most AI startup benefits have so far accrued to Silicon Valley-connected companies, but in 2026 this reverses as founders realize the vast AI opportunity lies outside the Bay Area in legacy verticals. Forward-deployed motions, in which teams embed directly with customers, will uncover hidden opportunities across consulting, services, system integration, and manufacturing.",
+      "zh": "迄今為止,AI 新創帶來的好處大多落在與矽谷有連結的公司手中,但這在 2026 年將翻轉,因為創辦人意識到龐大的 AI 機會其實在灣區之外的傳統垂直產業裡。前進部署模式(讓團隊直接駐點到客戶現場)將在顧問、服務、系統整合與製造等領域,挖掘出隱藏的機會。"
+    },
+    "tags": ["forward-deployed", "verticals", "enterprise", "go-to-market"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-ai-creates-a-new-orchestration-layer-and-new-roles-in-the-fortune-500",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "apps",
+    "title": {
+      "en": "AI creates a new orchestration layer—and new roles—in the Fortune 500",
+      "zh": "AI 為財星 500 大企業創造全新的協調層與全新職位"
+    },
+    "author": "Seema Amble",
+    "summary": {
+      "en": "Enterprises will shift from isolated AI tools to multi-agent systems that coordinate like digital teams. Fortune 500 companies, sitting on deep reservoirs of siloed data and institutional knowledge, will transform this context into a shared substrate for autonomous workers, and new roles such as AI workflow designers, agent supervisors, and governance leads will emerge. Organizations will need systems of coordination to manage multi-agent interactions, adjudicate context, and ensure reliability.",
+      "zh": "企業將從孤立的 AI 工具,轉向像數位團隊般協同運作的多代理系統。坐擁深厚孤島式資料與機構知識的財星 500 大企業,將把這些情境脈絡轉化為自主工作者共用的基底,並催生出 AI 工作流程設計師、代理監督者與治理負責人等全新職位。組織將需要一套「協調系統」來管理多代理之間的互動、裁決情境脈絡並確保可靠性。"
+    },
+    "tags": ["orchestration", "multi-agent", "enterprise", "fortune-500"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-consumer-ai-shifts-from-help-me-to-see-me",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "apps",
+    "title": {
+      "en": "Consumer AI shifts from \"help me\" to \"see me\"",
+      "zh": "消費級 AI 從「幫我做」轉向「懂我」"
+    },
+    "author": "Bryan Kim",
+    "summary": {
+      "en": "In 2026 consumer AI transitions from productivity assistance to connectivity and self-understanding. Multimodal context windows and falling inference costs enable AI to learn from life's full texture—camera rolls, messaging patterns, daily routines—rather than just chatbot inputs. \"See me\" products offer better retention than \"help me\" products by driving daily engagement around ongoing connection rather than discrete jobs.",
+      "zh": "2026 年,消費級 AI 將從生產力輔助,轉向連結感與自我理解。多模態的脈絡視窗與不斷下降的推論成本,讓 AI 得以從生活的完整紋理中學習——相簿、訊息往來模式、日常作息——而不再只是聊天機器人的輸入。相較於「幫我做」型產品,「懂我」型產品圍繞著持續的連結(而非一次性的任務)驅動每日互動,因而擁有更佳的留存率。"
+    },
+    "tags": ["consumer", "multimodal", "personalization", "retention"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-new-model-primitives-unlock-previously-impossible-companies",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "apps",
+    "title": {
+      "en": "New model primitives unlock previously impossible companies",
+      "zh": "全新的模型基礎能力,解鎖過去不可能存在的公司"
+    },
+    "author": "Kimberly Tan",
+    "summary": {
+      "en": "2026 brings companies that could not exist before recent breakthroughs in reasoning, multimodality, and computer use. Advances in reasoning enable the evaluation of complex financial claims; multimodal models extract latent video data from physical-world industries; and computer use automates work trapped behind desktop software and fragmented workflows.",
+      "zh": "2026 年將誕生一批在推理、多模態與電腦操作等近期突破出現之前根本不可能存在的公司。推理能力的進步,讓評估複雜的金融主張成為可能;多模態模型能從實體世界產業中萃取潛藏的影像資料;而電腦操作能力則能自動化那些被困在桌面軟體與零散工作流程背後的工作。"
+    },
+    "tags": ["model-primitives", "reasoning", "multimodal", "computer-use"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  },
+  {
+    "slug": "2026-ai-startups-selling-to-other-ai-startups-reach-scale",
+    "year": "2026",
+    "part": "Part 2",
+    "category": "apps",
+    "title": {
+      "en": "AI startups selling to other AI startups reach scale",
+      "zh": "賣給其他 AI 新創的 AI 新創達到規模化"
+    },
+    "author": "James da Costa",
+    "summary": {
+      "en": "In an unprecedented moment of company creation, startups can win distribution over incumbents by serving greenfield companies at formation. If you attract all of the new companies at formation and grow with them, you become a big company as your customers become big companies—the playbook exemplified by Stripe, Deel, and Mercury. 2026 will see startups going greenfield reach scale across a host of enterprise software categories.",
+      "zh": "在這個公司創建空前活躍的時刻,新創可以透過在企業成立之初就服務這些「全新草創」公司,在分發通路上勝過既有業者。如果你能在所有新公司草創之際就吸引到它們,並隨之一同成長,那麼當你的客戶成長為大公司時,你也會成為一家大公司——這正是 Stripe、Deel 與 Mercury 所示範的打法。2026 年,將會看到鎖定全新草創客群的新創,在眾多企業軟體類別中達到規模化。"
+    },
+    "tags": ["startups", "distribution", "greenfield", "enterprise"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-2/"
+  }
+]

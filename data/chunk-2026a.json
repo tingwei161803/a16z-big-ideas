@@ -1,0 +1,240 @@
+[
+  {
+    "slug": "2026-startups-tame-multimodal-data",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "infrastructure",
+    "title": {
+      "en": "Startups tame the chaos of multimodal data",
+      "zh": "新創馴服多模態資料的混亂"
+    },
+    "author": "Jennifer Li",
+    "summary": {
+      "en": "Enterprises struggle with unstructured data such as PDFs, videos, emails, and logs. The opportunity lies in platforms that clean, structure, validate, and govern multimodal data so AI systems can work reliably. These capabilities span use cases from contract analysis and compliance to claims handling and agent workflows. As Jennifer Li puts it, the limiting factor for AI companies is now data entropy: the steady decay of freshness, structure, and truth inside the unstructured universe.",
+      "zh": "企業在處理 PDF、影片、電子郵件、日誌等非結構化資料時困難重重。機會在於能夠清洗、結構化、驗證並治理多模態資料的平台,讓 AI 系統得以穩定運作。這些能力可應用於合約分析、法規遵循、理賠處理乃至代理人工作流程等多種情境。正如 Jennifer Li 所言,如今 AI 公司的瓶頸是「資料熵」:在非結構化的世界裡,新鮮度、結構與真實性不斷衰減。"
+    },
+    "tags": ["data", "multimodal", "unstructured", "enterprise"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-ai-revives-cybersecurity-hiring",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "infrastructure",
+    "title": {
+      "en": "AI revives cybersecurity hiring",
+      "zh": "AI 重振資安人才招聘"
+    },
+    "author": "Joel de la Garza",
+    "summary": {
+      "en": "Security teams face a hiring crisis because staff are bogged down in repetitive log reviews. AI will automate this drudgework, freeing teams to focus on fixing vulnerabilities and hunting threats. As Joel de la Garza notes, half the work is easily solved with automation, but it is impossible to figure out what to automate when you are drowning in work.",
+      "zh": "資安團隊面臨招聘危機,因為人員深陷重複性的日誌審查工作。AI 將把這些苦差事自動化,讓團隊得以專注於修補漏洞與獵捕威脅。正如 Joel de la Garza 所言,有一半的工作其實能輕鬆透過自動化解決,但當你被工作淹沒時,根本無從判斷該把什麼自動化。"
+    },
+    "tags": ["cybersecurity", "automation", "hiring", "security"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-agent-native-infrastructure-table-stakes",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "infrastructure",
+    "title": {
+      "en": "Agent-native infrastructure becomes table stakes",
+      "zh": "代理原生基礎設施成為標準配備"
+    },
+    "author": "Malika Aubakirova",
+    "summary": {
+      "en": "Enterprise backends designed for human-speed traffic cannot handle agent-speed, recursive workloads. New infrastructure must support massive parallelism, minimal latency variance, and sophisticated coordination across distributed execution. As Malika Aubakirova describes it, we are shifting from human-speed traffic that is predictable and low concurrency to agent-speed workloads that are recursive, bursty, and massive.",
+      "zh": "為「人類速度」流量而設計的企業後端,無法應付「代理速度」的遞迴式工作負載。新一代基礎設施必須支援大規模平行運算、極小的延遲變異,以及跨分散式執行的精密協調。正如 Malika Aubakirova 所述,我們正從可預測、低併發的人類速度流量,轉向遞迴、突發且龐大的代理速度工作負載。"
+    },
+    "tags": ["agents", "infrastructure", "latency", "parallelism"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-creative-tools-go-multimodal",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "infrastructure",
+    "title": {
+      "en": "Creative tools go multimodal",
+      "zh": "創作工具邁向多模態"
+    },
+    "author": "Justine Moore",
+    "summary": {
+      "en": "Generative media tools now enable video continuation, character creation, and scene reshoot capabilities. Products like Kling O1 and Runway Aleph demonstrate what is possible, yet significant innovation remains at both the model and application layers. These tools serve creators across the spectrum, from meme-makers to filmmakers.",
+      "zh": "生成式媒體工具如今能夠延續影片、創造角色,並重新拍攝場景。Kling O1 與 Runway Aleph 等產品展示了其潛力,但在模型層與應用層仍有大量創新空間。這些工具服務的創作者涵蓋各個層面,從迷因製作者到電影工作者皆是。"
+    },
+    "tags": ["generative-media", "video", "creative-tools", "multimodal"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-ai-native-data-stack-evolves",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "infrastructure",
+    "title": {
+      "en": "The AI-native data stack continues to evolve",
+      "zh": "AI 原生資料堆疊持續演進"
+    },
+    "author": "Jason Cui",
+    "summary": {
+      "en": "The modern data stack is consolidating toward unified platforms. Future evolution includes vector databases sitting alongside structured data, AI agents accessing the right context across systems, and the transformation of BI tools and spreadsheets into agentic workflows. The result is a data layer purpose-built for AI rather than retrofitted.",
+      "zh": "現代資料堆疊正朝著統一平台整合。未來的演進包括向量資料庫與結構化資料並存、AI 代理人能跨系統取得正確情境,以及商業智慧工具與試算表轉變為代理式工作流程。最終形成的是專為 AI 打造、而非事後改裝的資料層。"
+    },
+    "tags": ["data-stack", "vector-db", "ai-agents", "bi"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-the-year-we-step-inside-video",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "infrastructure",
+    "title": {
+      "en": "The year we step inside video",
+      "zh": "我們步入影片之中的一年"
+    },
+    "author": "Yoko Li",
+    "summary": {
+      "en": "Video models now maintain temporal coherence, remember content, and respond to user input. As Yoko Li puts it, video stops behaving like something we passively watch and starts feeling like a place we can actually step into. This unlocks robot training, evolving games, and learning environments for agents.",
+      "zh": "影片模型如今能維持時間連貫性、記住內容並回應使用者輸入。正如 Yoko Li 所言,影片不再只是我們被動觀看的東西,而開始感覺像是一個我們真能踏入其中的空間。這將解鎖機器人訓練、可持續演化的遊戲,以及供代理人學習的環境。"
+    },
+    "tags": ["video-models", "interactive", "robotics", "simulation"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-systems-of-record-lose-ground",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "growth",
+    "title": {
+      "en": "Systems of record lose ground",
+      "zh": "記錄系統逐漸失勢"
+    },
+    "author": "Sarah Wang",
+    "summary": {
+      "en": "AI collapses the distance between intent and execution, transforming passive databases into autonomous workflow engines. Agents anticipate and coordinate processes, while traditional systems become commodity persistence layers. As Sarah Wang predicts, the system of record will finally start to lose primacy.",
+      "zh": "AI 縮短了「意圖」與「執行」之間的距離,將被動的資料庫轉變為自主的工作流程引擎。代理人能預判並協調各項流程,而傳統系統則淪為商品化的資料儲存層。正如 Sarah Wang 所預測,記錄系統終將開始失去其主導地位。"
+    },
+    "tags": ["systems-of-record", "agents", "workflow", "saas"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-vertical-ai-evolves-to-multiplayer",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "growth",
+    "title": {
+      "en": "Vertical AI evolves from information retrieval and reasoning to multiplayer",
+      "zh": "垂直 AI 從資訊檢索與推理進化為多人協作"
+    },
+    "author": "Alex Immerman",
+    "summary": {
+      "en": "Vertical software in healthcare, legal, and finance is maturing beyond information extraction. A multiplayer mode coordinates AI agents across stakeholders, each with distinct permissions and workflows. This collaboration layer creates network effects and switching costs that deepen defensibility.",
+      "zh": "醫療、法律與金融領域的垂直軟體,正逐步超越單純的資訊擷取。「多人協作」模式能協調跨多方關係人的 AI 代理人,各自擁有不同的權限與工作流程。這層協作機制創造出網路效應與轉換成本,進一步鞏固護城河。"
+    },
+    "tags": ["vertical-ai", "multiplayer", "network-effects", "saas"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-creating-for-agents-not-humans",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "growth",
+    "title": {
+      "en": "Creating for agents, not humans",
+      "zh": "為代理人而非人類設計"
+    },
+    "author": "Stephenie Zhang",
+    "summary": {
+      "en": "As people increasingly interface through agents, design priorities shift from visual hierarchy to machine legibility. As Stephenie Zhang frames it, we are no longer designing for humans, but for agents, and the new optimization target is not visual hierarchy but machine legibility. Content and products must be built to be read and acted on by machines.",
+      "zh": "隨著人們愈來愈常透過代理人來互動,設計重心也從視覺層次轉向機器可讀性。正如 Stephenie Zhang 所述,我們不再為人類設計,而是為代理人設計;新的優化目標不再是視覺層次,而是機器可讀性。內容與產品都必須打造成能被機器讀取並據以行動的形式。"
+    },
+    "tags": ["agents", "design", "machine-legibility", "ux"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-end-of-screen-time-kpi",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "growth",
+    "title": {
+      "en": "The end of the screen time KPI in AI applications",
+      "zh": "AI 應用中螢幕停留時間 KPI 的終結"
+    },
+    "author": "Santiago Rodriguez",
+    "summary": {
+      "en": "Outcome-based pricing is replacing screen-time metrics in AI applications. Examples include DeepResearch capturing value without prolonged interaction, Cursor building applications end to end, and Abridge automating clinical documentation. As Santiago Rodriguez observes, the companies that tell the simplest sales pitch on ROI will continue to outpace their competitors.",
+      "zh": "在 AI 應用中,以成果為基礎的定價方式正取代螢幕停留時間等指標。例如 DeepResearch 無需長時間互動即能創造價值、Cursor 能端到端打造應用程式,而 Abridge 則將臨床文件作業自動化。正如 Santiago Rodriguez 所觀察,能用最簡單的方式說清楚投資報酬率的公司,將持續領先競爭對手。"
+    },
+    "tags": ["pricing", "outcome-based", "roi", "ai-apps"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-healthy-maus",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "bio-health",
+    "title": {
+      "en": "Healthy MAUs",
+      "zh": "健康的月活躍用戶"
+    },
+    "author": "Julie Yoo",
+    "summary": {
+      "en": "A new healthcare segment is emerging: engaged consumers who proactively monitor their health despite lacking acute illness. AI-enabled services, preventive insurance products, and subscription models allow companies to serve this large, continuously engaged population. The result is a shift from episodic, sickness-driven care toward ongoing wellness relationships.",
+      "zh": "一個全新的醫療市場區隔正在浮現:即使沒有急性病症,仍主動監測自身健康的高參與度消費者。AI 賦能的服務、預防型保險商品與訂閱制模式,讓企業得以服務這群龐大且持續活躍的族群。其結果是從零星、由疾病驅動的照護,轉向長期的健康管理關係。"
+    },
+    "tags": ["healthcare", "preventive", "consumer-health", "subscription"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-world-models-spotlight-storytelling",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "speedrun",
+    "title": {
+      "en": "World models take the spotlight in storytelling",
+      "zh": "世界模型成為敘事的主角"
+    },
+    "author": "Jonathan Lai",
+    "summary": {
+      "en": "AI world models generate immersive 3D environments from text. Technologies like Marble and Genie 3 enable the co-creation of shared universes with their own digital economies. As Jonathan Lai envisions, entirely new storytelling formats will emerge, potentially culminating in a generative Minecraft.",
+      "zh": "AI 世界模型能從文字生成沉浸式的 3D 環境。Marble 與 Genie 3 等技術讓人們得以共同創造擁有自身數位經濟的共享宇宙。正如 Jonathan Lai 所構想,全新的敘事形式將會出現,最終或許會誕生出一個「生成式 Minecraft」。"
+    },
+    "tags": ["world-models", "storytelling", "3d", "gaming"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-the-year-of-me",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "speedrun",
+    "title": {
+      "en": "\"The year of me\"",
+      "zh": "「屬於我的一年」"
+    },
+    "author": "Joshua Lu",
+    "summary": {
+      "en": "Products are shifting from mass production toward deep personalization. AI tutors adapt to individual learning styles, health apps customize nutrition and fitness, and media platforms remix content for personal preferences. As Joshua Lu puts it, the biggest companies of the next century will win by finding the individual inside the average.",
+      "zh": "產品正從大量生產轉向深度個人化。AI 家教能因應個別的學習風格、健康應用程式量身打造營養與健身方案,媒體平台則依個人偏好重新混搭內容。正如 Joshua Lu 所言,下一個世紀最大的公司,將靠著在「平均值」中找出「個體」而勝出。"
+    },
+    "tags": ["personalization", "ai-tutors", "consumer", "media"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  },
+  {
+    "slug": "2026-first-ai-native-university",
+    "year": "2026",
+    "part": "Part 1",
+    "category": "speedrun",
+    "title": {
+      "en": "The first AI-native university",
+      "zh": "第一所 AI 原生大學"
+    },
+    "author": "Emily Bennett",
+    "summary": {
+      "en": "Educational institutions designed around intelligent systems can optimize courses, advising, and operations in real time. Professors become learning architects, and assessment evaluates competence in using AI rather than prohibiting the tools. Such an institution becomes a talent engine for an AI-augmented workforce.",
+      "zh": "圍繞智慧系統打造的教育機構,能即時優化課程、學業輔導與營運。教授轉型為「學習架構師」,而評量的重點在於評估善用 AI 的能力,而非禁止使用這些工具。這樣的機構將成為培育 AI 增強型人才的引擎。"
+    },
+    "tags": ["education", "ai-native", "university", "workforce"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-1/"
+  }
+]

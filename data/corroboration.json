@@ -1,0 +1,62 @@
+{
+  "2025-the-resurgence-of-nuclear": {
+    "update": {
+      "en": "The prediction held up strongly. Constellation's 20-year power purchase agreement with Microsoft is reviving Three Mile Island Unit 1 (renamed the Crane Clean Energy Center), with all 835 MW dedicated to Microsoft's AI data centers and restart pulled forward to 2027. In November 2025 the Trump administration's DOE backed the project with a $1 billion federal loan, underscoring nuclear's central role in powering AI.",
+      "zh": "此預測明顯成真。Constellation 與微軟簽訂 20 年購電協議,重啟三哩島一號機組(更名為 Crane Clean Energy Center),全部 835 MW 電力專供微軟的 AI 資料中心,重啟時程更提前至 2027 年。2025 年 11 月,川普政府能源部以 10 億美元聯邦貸款支持該案,凸顯核能在支撐 AI 用電上的核心地位。"
+    },
+    "links": [
+      {"title": "Constellation to restart Three Mile Island unit, powering Microsoft - World Nuclear News", "url": "https://www.world-nuclear-news.org/articles/constellation-to-restart-three-mile-island-unit-powering-microsoft"},
+      {"title": "Trump administration backs Three Mile Island nuclear restart with $1 billion loan - CNBC", "url": "https://www.cnbc.com/2025/11/18/trump-nuclear-three-mile-island-crane-loan-constellation-ceg.html"}
+    ]
+  },
+  "2025-big-is-back-tackling-common-diseases-again": {
+    "update": {
+      "en": "GLP-1 drugs kept expanding through 2025, with the global GLP-1 receptor agonist market estimated at roughly $63-66 billion and projected to grow at a double-digit CAGR toward $185 billion by 2033. Novo Nordisk's Wegovy grew about 18% year-over-year in Q2 2025 and Ozempic remained near $4.7 billion per quarter, though growth cooled and forecasts were trimmed amid competition and compounded-drug pressure; an estimated 25 million Americans are projected to be on GLP-1 therapy by 2030.",
+      "zh": "GLP-1 藥物在 2025 年持續擴張,全球 GLP-1 受體促效劑市場規模約 630-660 億美元,並以雙位數年複合成長率邁向 2033 年的 1,850 億美元。Novo Nordisk 的 Wegovy 在 2025 年第二季年增約 18%,Ozempic 單季維持約 47 億美元,但成長放緩、公司因競爭與複方藥壓力下修預測;預估到 2030 年將有約 2,500 萬名美國人使用 GLP-1 療法。"
+    },
+    "links": [
+      {"title": "GLP-1 Receptor Agonist Market Valued at USD 62.86 Billion in 2025 - BioSpace", "url": "https://www.biospace.com/press-releases/glp-1-receptor-agonist-market-valued-at-usd-62-86-billion-in-2025-set-to-grow-at-17-5-cagr-through-2034"},
+      {"title": "Novo Nordisk cuts 2025 forecast amid slower GLP-1 sales - eMarketer", "url": "https://www.emarketer.com/content/slower-growing-glp-1-drug-sales-force-novo-nordisk-cut-forecast-again"}
+    ]
+  },
+  "2025-small-but-mighty-on-device-ai": {
+    "update": {
+      "en": "On-device AI advanced as predicted: Apple opened its ~3B-parameter on-device foundation model to developers via a new Foundation Models framework in 2025, and Google shipped Gemini Nano for fully offline summarization and rewriting through ML Kit's GenAI APIs. Small models like Microsoft's Phi-4, Gemma and Qwen now run quantized on phones, though local adoption in 2025 was still more bleeding-edge than turnkey due to hardware fragmentation and tooling immaturity.",
+      "zh": "裝置端 AI 如預測般推進:Apple 於 2025 年透過新的 Foundation Models 框架,向開發者開放其約 30 億參數的裝置端基礎模型;Google 則推出 Gemini Nano,透過 ML Kit 的 GenAI API 實現完全離線的摘要與改寫。微軟 Phi-4、Gemma、Qwen 等小型模型現已可量化後在手機上運行,惟 2025 年本地端採用仍偏前沿實驗階段,受硬體分裂與工具鏈不成熟所限。"
+    },
+    "links": [
+      {"title": "Updates to Apple's On-Device and Server Foundation Language Models - Apple ML Research", "url": "https://machinelearning.apple.com/research/apple-foundation-models-2025-updates"},
+      {"title": "How Small Language Models Are Outperforming Giants in 2025 - Boston Institute of Analytics", "url": "https://bostoninstituteofanalytics.org/blog/weekly-wrap-up-25th-oct-1st-nov-how-small-language-models-slms-are-outperforming-giants-in-2025/"}
+    ]
+  },
+  "2025-the-decline-of-google-it": {
+    "update": {
+      "en": "The prediction was borne out: Google's global search share dipped below 90% for most of 2025, a level not seen since 2015, as AI-native tools gained ground. On a broader information-discovery basis combining search and AI sessions, Google's share fell from 89.3% in December 2022 to 57.6% by December 2025, while Perplexity grew roughly 370% year-over-year, confirming real erosion of Google's discovery monopoly.",
+      "zh": "預測獲得印證:隨著 AI 原生工具崛起,Google 的全球搜尋市佔在 2025 年多數時間跌破 90%,為 2015 年以來首見。若以結合搜尋與 AI 對話的整體資訊探索口徑計算,Google 市佔從 2022 年 12 月的 89.3% 降至 2025 年 12 月的 57.6%,而 Perplexity 年增約 370%,證實 Google 的資訊探索壟斷確實正在鬆動。"
+    },
+    "links": [
+      {"title": "Google search market share decline: is Google's dominance fading? - ContentGrip", "url": "https://www.contentgrip.com/google-search-market-share-decline/"},
+      {"title": "2025 AI Search Year in Review: ChatGPT, Perplexity, Claude Statistics - Presence AI", "url": "https://presenceai.app/blog/2025-ai-search-year-in-review-complete-analysis"}
+    ]
+  },
+  "2025-hypercenters-the-regional-race-for-ai-infrastructure": {
+    "update": {
+      "en": "The gigawatt-scale buildout materialized faster than expected. OpenAI's $500 billion Stargate project with Oracle and SoftBank brought its flagship Abilene, Texas site online in September 2025 (scaling toward 1.2 GW), and the partners announced five new U.S. sites that push planned capacity to nearly 7-9 GW across Texas, New Mexico, Ohio and the Midwest, on track to hit the 10 GW, $500B commitment ahead of schedule.",
+      "zh": "GW 等級的基礎建設比預期更快成形。OpenAI 與 Oracle、SoftBank 合作的 5,000 億美元 Stargate 計畫,於 2025 年 9 月讓德州 Abilene 旗艦廠區上線(規模朝 1.2 GW 擴張),並宣布五個新美國廠區,使規劃容量提升至近 7-9 GW,橫跨德州、新墨西哥、俄亥俄與中西部,可望提前達成 10 GW、5,000 億美元的承諾。"
+    },
+    "links": [
+      {"title": "OpenAI's first Stargate data center is open in Texas - CNBC", "url": "https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html"},
+      {"title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites - OpenAI", "url": "https://openai.com/index/five-new-stargate-sites/"}
+    ]
+  },
+  "2025-enterprises-will-increasingly-accept-stablecoins-for-payments": {
+    "update": {
+      "en": "Enterprise stablecoin acceptance accelerated sharply in 2025. Stripe closed its ~$1.1 billion acquisition of stablecoin infrastructure firm Bridge in February 2025 and rolled out worldwide USDC-settled payments letting merchants accept digital dollars on Ethereum, Base and Polygon at a flat 1.5% fee; within a week payments flowed from 70+ countries (later 120+). Stripe also launched a stablecoin-focused blockchain, Tempo, while surveys showed 6 in 10 Fortune 500 executives pursuing blockchain initiatives.",
+      "zh": "企業接受穩定幣付款在 2025 年大幅加速。Stripe 於 2025 年 2 月完成對穩定幣基礎設施公司 Bridge 約 11 億美元的收購,並全球推出以 USDC 結算的付款服務,讓商家可在 Ethereum、Base、Polygon 上以 1.5% 統一費率收取數位美元;上線一週內付款即來自逾 70 個國家(後達 120+)。Stripe 另推出專注穩定幣的區塊鏈 Tempo,且調查顯示六成財星 500 大高層正推動區塊鏈計畫。"
+    },
+    "links": [
+      {"title": "Stripe accelerates the utility of AI and stablecoins with major launches - Stripe Newsroom", "url": "https://stripe.com/newsroom/news/sessions-2025"},
+      {"title": "Stripe wants to make stablecoins the backbone of global commerce - Fortune", "url": "https://fortune.com/crypto/2025/10/01/stripe-crypto-stablecoins-open-issuance-bridge-blockchain-tempo/"}
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+[
+  {
+    "slug": "2025-when-regulation-becomes-code",
+    "year": "2025",
+    "category": "enterprise-fintech",
+    "title": {
+      "en": "When Regulation Becomes Code",
+      "zh": "當法規變成程式碼"
+    },
+    "author": "Angela Strange",
+    "summary": {
+      "en": "Regulatory compliance consumes enormous resources across banking, insurance, and healthcare. Lengthy documents including text, images, and case precedents could be used to train regulation-specific LLMs. This would make compliance queries as simple as a web search, while AI agents help consumers navigate complex processes like mortgage modifications at scale.",
+      "zh": "法規遵循在銀行、保險與醫療產業耗費龐大資源。包含文字、圖像與判例的冗長文件,可用來訓練專屬於法規的大型語言模型,讓法遵查詢像網路搜尋一樣簡單,同時讓 AI 代理人能大規模協助消費者處理房貸調整等複雜流程。"
+    },
+    "tags": ["regtech", "compliance", "llm", "fintech"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-ripping-out-legacy-systems-of-record",
+    "year": "2025",
+    "category": "enterprise-fintech",
+    "title": {
+      "en": "Ripping Out Legacy Systems of Record",
+      "zh": "汰換老舊的記錄系統"
+    },
+    "author": "Marc Andrusko",
+    "summary": {
+      "en": "Enterprises will abandon incumbent platforms like Salesforce and Workday in favor of custom AI solutions. Emerging systems of engagement combine data storage with AI-powered workflows, allowing humans to primarily review automated work rather than input data manually.",
+      "zh": "企業將捨棄 Salesforce、Workday 等既有平台,轉向客製化的 AI 解決方案。新興的「互動系統」結合資料儲存與 AI 驅動的工作流程,讓人類主要負責審核自動化的成果,而非手動輸入資料。"
+    },
+    "tags": ["enterprise", "systems-of-record", "ai-workflow", "saas"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-differentiation-vs-lasting-defensibility",
+    "year": "2025",
+    "category": "enterprise-fintech",
+    "title": {
+      "en": "Differentiation vs. Lasting Defensibility",
+      "zh": "差異化 vs. 長久的防禦力"
+    },
+    "author": "David Haber",
+    "summary": {
+      "en": "While AI creates immediate differentiation, winning startups must build lasting moats to survive. These come from network effects that grow value with user adoption, high switching costs, and product virality, helping startups avoid being outflanked by larger competitors.",
+      "zh": "雖然 AI 能帶來即時的差異化,但能勝出的新創必須建立長久的護城河才能存活。護城河來自隨採用人數增加而提升價值的網路效應、高轉換成本以及產品的病毒式傳播,藉此避免被規模更大的競爭者超越。"
+    },
+    "tags": ["moat", "startups", "defensibility", "network-effects"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-ai-advances-from-data-collection-to-data-in-action",
+    "year": "2025",
+    "category": "enterprise-fintech",
+    "title": {
+      "en": "AI Advances From Data Collection to Data-in-Action",
+      "zh": "AI 從資料蒐集邁向資料行動化"
+    },
+    "author": "Seema Amble",
+    "summary": {
+      "en": "Beyond extracting data from emails and calls, AI systems will suggest action sequences based on contextual signals. Examples include sales dashboards recommending which accounts to prioritize and finance tools that guide forecast construction from real-time data.",
+      "zh": "AI 系統將不只從電子郵件與通話中擷取資料,還會依據情境訊號建議行動步驟。例如銷售儀表板建議應優先處理哪些客戶,以及財務工具依即時資料引導使用者建立預測。"
+    },
+    "tags": ["ai-agents", "data", "automation", "enterprise"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-romanticizing-inorganic-growth",
+    "year": "2025",
+    "category": "enterprise-fintech",
+    "title": {
+      "en": "Romanticizing Inorganic Growth",
+      "zh": "重新看待外部併購式成長"
+    },
+    "author": "Joe Schmidt",
+    "summary": {
+      "en": "AI-powered service startups will transform low-margin industries by automating voice, email, and messaging roles. Successful companies will demonstrate earnings improvements through pilot partnerships, then acquire smaller players using their superior economics.",
+      "zh": "AI 驅動的服務型新創將自動化語音、電子郵件與訊息等職務,進而改造低利潤產業。成功的公司會先透過試行合作展現獲利改善,再憑藉更優越的經濟結構併購較小的同業。"
+    },
+    "tags": ["ai-services", "m&a", "automation", "startups"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-ai-native-ui-and-ux",
+    "year": "2025",
+    "category": "enterprise-fintech",
+    "title": {
+      "en": "AI-Native UI and UX",
+      "zh": "AI 原生的 UI 與 UX"
+    },
+    "author": "Kimberly Tan",
+    "summary": {
+      "en": "The maturation of foundation models enables new interaction paradigms beyond chat interfaces. In 2025, novel AI-native UI/UX designs will emerge in which AI agents take direct action in the workflow, and the interface is reimagined for humans to review work or do QA.",
+      "zh": "基礎模型的成熟讓互動模式超越了聊天介面。2025 年將出現嶄新的 AI 原生 UI/UX 設計,讓 AI 代理人能在工作流程中直接採取行動,而介面則重新設計成讓人類審核成果或進行品質檢查。"
+    },
+    "tags": ["ux", "ai-native", "design", "agents"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-every-white-collar-worker-will-have-an-ai-copilot",
+    "year": "2025",
+    "category": "enterprise-fintech",
+    "title": {
+      "en": "Every White-Collar Worker Will Have an AI Copilot",
+      "zh": "每位白領工作者都會有 AI 副手"
+    },
+    "author": "James da Costa",
+    "summary": {
+      "en": "AI copilots will eventually exist for every white-collar role, automating the most painful parts of work while freeing people for creative tasks. Research shows LLM access accelerates roughly 15% of worker tasks, rising to 47-56% when combined with specialized tools.",
+      "zh": "未來每一種白領職務都會有 AI 副手,負責自動化工作中最繁瑣的部分,讓人們專注於創造性任務。研究顯示,使用大型語言模型可加速約 15% 的工作任務,若搭配專用工具則可提升至 47% 至 56%。"
+    },
+    "tags": ["copilot", "productivity", "future-of-work", "llm"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-a-next-gen-pixar-will-emerge",
+    "year": "2025",
+    "category": "games",
+    "title": {
+      "en": "A Next-Gen Pixar Will Emerge",
+      "zh": "新世代的皮克斯將會誕生"
+    },
+    "author": "Jonathan Lai",
+    "summary": {
+      "en": "An iconic media company will emerge using interactive video, an AI-native storytelling format that generates game frames in real time from neural networks. This approach blends the accessibility of TV and film with the dynamic, player-driven systems of video games.",
+      "zh": "將會出現一家標誌性的媒體公司,運用「互動影片」這種 AI 原生的敘事形式,透過神經網路即時生成遊戲畫面。這種做法結合了電視與電影的易親近性,以及電玩遊戲動態、由玩家主導的機制。"
+    },
+    "tags": ["interactive-video", "generative-ai", "media", "games"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-ai-companions-with-their-own-inner-worlds",
+    "year": "2025",
+    "category": "games",
+    "title": {
+      "en": "AI Companions With Their Own Inner Worlds",
+      "zh": "擁有內在世界的 AI 夥伴"
+    },
+    "author": "Andrew Chen",
+    "summary": {
+      "en": "Current AI companions passively react to user interactions. Next-generation companions will have virtual friends, reactions to news, and emotions, and will initiate contact on their own. These relationships become meaningful through reciprocal engagement and shared motivations.",
+      "zh": "現今的 AI 夥伴只是被動回應使用者的互動。下一代的 AI 夥伴將擁有虛擬朋友、對新聞的反應與情緒,並會主動發起接觸。這些關係透過雙向的互動與共同的動機而變得有意義。"
+    },
+    "tags": ["ai-companions", "consumer-ai", "social", "games"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-game-tech-powers-tomorrows-businesses",
+    "year": "2025",
+    "category": "games",
+    "title": {
+      "en": "Game Tech Powers Tomorrow's Businesses",
+      "zh": "遊戲技術驅動未來的企業"
+    },
+    "author": "Troy Kirwin",
+    "summary": {
+      "en": "Gaming technology extends beyond entertainment to solve business challenges. Applications include autonomous vehicle simulations, defense systems, AR manufacturing tools, and workforce training programs built using Unreal Engine, digital twins, and next-generation XR devices.",
+      "zh": "遊戲技術的應用已超越娛樂範疇,用於解決商業挑戰。應用領域包括自駕車模擬、國防系統、AR 製造工具,以及運用 Unreal Engine、數位分身與新世代 XR 裝置打造的員工訓練計畫。"
+    },
+    "tags": ["game-tech", "digital-twins", "xr", "enterprise"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-a-second-wave-of-faceless-video-creators",
+    "year": "2025",
+    "category": "games",
+    "title": {
+      "en": "A Second Wave of \"Faceless\" Video Creators",
+      "zh": "第二波「不露臉」影片創作者"
+    },
+    "author": "Lester Chen",
+    "summary": {
+      "en": "Faceless creators hide their identity while leveraging AI tools for voice, language, and audio production. The argument is that quality content matters more than creator visibility: if the information delivered feels meaningful, entertaining, or insightful, the face behind the camera may not matter.",
+      "zh": "「不露臉」的創作者隱藏自身身分,同時運用 AI 工具製作語音、語言與音訊內容。其論點在於內容品質比創作者是否露面更重要:只要傳遞的資訊讓人覺得有意義、有娛樂性或有啟發性,鏡頭背後是誰或許就不那麼重要了。"
+    },
+    "tags": ["creators", "generative-ai", "video", "content"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-the-decline-of-google-it",
+    "year": "2025",
+    "category": "growth",
+    "title": {
+      "en": "The Decline of \"Google It\"",
+      "zh": "「Google 一下」的式微"
+    },
+    "author": "Alex Immerman",
+    "summary": {
+      "en": "Google's search dominance faces unprecedented pressure from chatbots and specialized answer engines. ChatGPT has 250+ million weekly users while Perplexity grows 25%+ monthly. Domain-specific providers like Consensus and Harvey serve niche needs, further fragmenting search.",
+      "zh": "Google 的搜尋霸主地位正面臨來自聊天機器人與專用答案引擎前所未有的壓力。ChatGPT 每週使用者超過 2.5 億,Perplexity 則以每月逾 25% 的速度成長。Consensus、Harvey 等領域專用的供應商滿足利基需求,使搜尋市場進一步碎片化。"
+    },
+    "tags": ["search", "chatbots", "google", "answer-engines"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-a-golden-era-of-sales",
+    "year": "2025",
+    "category": "growth",
+    "title": {
+      "en": "A Golden Era of Sales",
+      "zh": "業務銷售的黃金時代"
+    },
+    "author": "Joe Morrissey",
+    "summary": {
+      "en": "Rather than eliminating salespeople, generative AI enables a golden era of sales by automating administrative work and shortening ramp times. This lets representatives focus on high-touch, consultative selling, while productivity gains support hiring more account executives.",
+      "zh": "生成式 AI 不會取代業務人員,反而透過自動化行政工作與縮短上手時間,開創業務銷售的黃金時代。這讓業務人員能專注於高接觸、顧問式的銷售,而生產力的提升也有助於聘用更多客戶經理。"
+    },
+    "tags": ["sales", "generative-ai", "productivity", "gtm"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-beyond-gpt-wrappers",
+    "year": "2025",
+    "category": "growth",
+    "title": {
+      "en": "Beyond GPT Wrappers",
+      "zh": "超越 GPT 套殼應用"
+    },
+    "author": "Sarah Wang",
+    "summary": {
+      "en": "2025 brings the AI-native application layer, where winning founders operate as applied AI engineers. Successful apps blend multiple models and integrate customer data extensively, moving beyond generic responses to solve specific use-case problems.",
+      "zh": "2025 年將迎來 AI 原生的應用層,能勝出的創辦人形同應用型 AI 工程師。成功的應用會融合多種模型並深度整合客戶資料,擺脫泛用化的回應,進而解決特定使用情境的問題。"
+    },
+    "tags": ["application-layer", "ai-native", "startups", "founders"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-hypercenters-the-regional-race-for-ai-infrastructure",
+    "year": "2025",
+    "category": "infrastructure",
+    "title": {
+      "en": "Hypercenters: The Regional Race for AI Infrastructure",
+      "zh": "超級中心:AI 基礎設施的區域競賽"
+    },
+    "author": "Anjney Midha",
+    "summary": {
+      "en": "AI Hypercenters are regions with 3-6 gigawatts of installed capacity to develop, train, and host frontier models. Nations including the U.S., China, Japan, Singapore, and Saudi Arabia are competing to reach this scale, viewing compute capacity as critical strategic infrastructure.",
+      "zh": "「AI 超級中心」是指擁有 3 至 6 吉瓦裝置容量、可用於開發、訓練與託管前沿模型的區域。美國、中國、日本、新加坡與沙烏地阿拉伯等國正競相達到此規模,並視運算容量為關鍵的戰略基礎設施。"
+    },
+    "tags": ["ai-infrastructure", "compute", "data-centers", "geopolitics"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-small-but-mighty-on-device-ai",
+    "year": "2025",
+    "category": "infrastructure",
+    "title": {
+      "en": "Small, But Mighty: On-Device AI",
+      "zh": "小而強大:裝置端 AI"
+    },
+    "author": "Jennifer Li",
+    "summary": {
+      "en": "Smaller on-device models will dominate by usage volume, driven by privacy, economic, and practical considerations. Developments in frameworks like TensorFlow Lite and custom hardware such as the Google Edge TPU will enable responsive experiences on smartphones and IoT devices.",
+      "zh": "基於隱私、經濟與實務上的考量,較小型的裝置端模型將在使用量上佔據主導地位。TensorFlow Lite 等框架與 Google Edge TPU 等客製化硬體的發展,將讓智慧型手機與物聯網裝置提供反應靈敏的使用體驗。"
+    },
+    "tags": ["on-device-ai", "edge", "small-models", "hardware"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-beyond-reason-ai-makes-strides-in-math-physics-and-coding",
+    "year": "2025",
+    "category": "infrastructure",
+    "title": {
+      "en": "Beyond \"Reason\": AI Makes Strides in Math, Physics, and Coding",
+      "zh": "超越「推理」:AI 在數學、物理與程式設計上的躍進"
+    },
+    "author": "Matt Bornstein",
+    "summary": {
+      "en": "While LLMs don't truly reason, they show improved performance on technical tasks through better training techniques and test-time compute. Models are achieving gold-medal-level performance on international mathematics competitions and similar benchmarks.",
+      "zh": "雖然大型語言模型並非真正在推理,但透過更好的訓練技術與測試時運算,它們在技術性任務上的表現已顯著提升。部分模型在國際數學競賽及類似的基準測試中,已達到金牌等級的水準。"
+    },
+    "tags": ["reasoning", "test-time-compute", "benchmarks", "llm"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-generative-ai-everywhere",
+    "year": "2025",
+    "category": "infrastructure",
+    "title": {
+      "en": "Generative AI Everywhere",
+      "zh": "無所不在的生成式 AI"
+    },
+    "author": "Guido Appenzeller",
+    "summary": {
+      "en": "AI deployment extends beyond cloud servers to all devices and applications. Locally-run language and image models will power text editors, camera apps, and appliances, delivering a fast, responsive user experience without cloud dependence.",
+      "zh": "AI 的部署將從雲端伺服器延伸到所有裝置與應用程式。在本地端運行的語言與影像模型,將驅動文字編輯器、相機應用程式與各式家電,在不依賴雲端的情況下提供快速、反應靈敏的使用體驗。"
+    },
+    "tags": ["generative-ai", "local-models", "edge", "deployment"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  }
+]

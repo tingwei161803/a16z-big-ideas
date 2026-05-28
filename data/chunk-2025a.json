@@ -1,0 +1,274 @@
+[
+  {
+    "slug": "2025-the-resurgence-of-nuclear",
+    "year": "2025",
+    "category": "american-dynamism",
+    "title": {
+      "en": "The Resurgence of Nuclear",
+      "zh": "核能的復興"
+    },
+    "author": "David Ulevitch",
+    "summary": {
+      "en": "AI's energy demands are driving a revival of nuclear power. Data centers need clean, consistent energy, spurring reactor orders for the first time in decades through regulatory reform, public support, and capital investment. The reopening of Three Mile Island exemplifies this trend toward securing America's AI leadership.",
+      "zh": "AI 的能源需求正在推動核能復興。資料中心需要乾淨且穩定的電力,在法規鬆綁、輿論支持與資本投入的帶動下,促成了數十年來首見的反應爐訂單。三哩島核電廠的重啟正是這股趨勢的代表,目的在於鞏固美國在 AI 領域的領導地位。"
+    },
+    "tags": ["nuclear", "energy", "ai", "data-centers"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-the-jobs-of-the-future-crossing-the-hardware-software-chasm",
+    "year": "2025",
+    "category": "american-dynamism",
+    "title": {
+      "en": "The Jobs of the Future: Crossing the Hardware-Software Chasm",
+      "zh": "未來的工作:跨越軟硬體的鴻溝"
+    },
+    "author": "Erin Price-Wright",
+    "summary": {
+      "en": "Technical roles that bridge hardware and software are expanding as autonomy advances across defense, enterprise, and consumer sectors. Demand is accelerating for electrical engineers, controls engineers, mechanical engineers, and technicians. This growth could potentially outpace traditional software engineering over the next decade.",
+      "zh": "隨著自主化技術在國防、企業與消費市場全面推進,橫跨軟硬體的技術職位需求正快速增加。電機工程師、控制工程師、機械工程師與技師的需求正加速成長,未來十年的成長幅度甚至可能超越傳統的軟體工程。"
+    },
+    "tags": ["jobs", "hardware", "autonomy", "engineering"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-the-catch-signals-the-next-frontier-in-space",
+    "year": "2025",
+    "category": "american-dynamism",
+    "title": {
+      "en": "\"The Catch\" Signals the Next Frontier in Space",
+      "zh": "「空中接箭」揭示太空的下一個前沿"
+    },
+    "author": "Lejla Johnsen",
+    "summary": {
+      "en": "Starship's booster catch achievement enables full, rapid reusability for lift vehicles capable of carrying 150+ metric tons. This capability unlocks biomedical labs in microgravity, lunar and Mars missions, and 40-minute global transport, marking the beginning of science fiction becoming reality.",
+      "zh": "星艦(Starship)成功以「空中接箭」回收推進器,讓運載超過 150 公噸的火箭得以實現完全且快速的重複使用。這項能力將開啟微重力環境下的生醫實驗室、登月與火星任務,以及 40 分鐘的全球運輸,象徵著科幻情節正逐漸成為現實。"
+    },
+    "tags": ["space", "starship", "reusability", "rockets"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-the-future-of-defense-is-decentralized",
+    "year": "2025",
+    "category": "american-dynamism",
+    "title": {
+      "en": "The Future of Defense Is Decentralized",
+      "zh": "國防的未來在於去中心化"
+    },
+    "author": "Ryan McEntush",
+    "summary": {
+      "en": "Military decisions are shifting to edge operations, where autonomous drones and AI systems operate with minimal intervention in remote zones. This demands reliable compute and power in hostile environments, requiring advances in energy, space, and AI to achieve operational superiority.",
+      "zh": "軍事決策正逐漸移轉至邊緣端,自主無人機與 AI 系統能在偏遠戰區以最少人為介入運作。這需要在嚴苛環境中提供穩定的運算與電力,因此有賴能源、太空與 AI 的進步,才能取得作戰優勢。"
+    },
+    "tags": ["defense", "drones", "edge", "ai"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-xr-devices-get-developer-ready",
+    "year": "2025",
+    "category": "american-dynamism",
+    "title": {
+      "en": "XR Devices Get Developer-Ready",
+      "zh": "XR 裝置邁向開發者就緒"
+    },
+    "author": "Oliver Hsu",
+    "summary": {
+      "en": "Extended reality (XR) platforms like Apple Vision Pro and Meta Orion enable developers to build applications for the physical world. These devices advance world models and robotics foundation models, with particular promise for verticals involving physical data, interactions, and infrastructure.",
+      "zh": "Apple Vision Pro 與 Meta Orion 等延展實境(XR)平台,讓開發者得以打造面向實體世界的應用。這些裝置推動了世界模型與機器人基礎模型的發展,對於涉及實體資料、互動與基礎設施的垂直領域尤其具有潛力。"
+    },
+    "tags": ["xr", "developers", "world-models", "robotics"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-harnessing-earth-observation-data",
+    "year": "2025",
+    "category": "american-dynamism",
+    "title": {
+      "en": "Harnessing Earth Observation Data",
+      "zh": "善用地球觀測資料"
+    },
+    "author": "Millen Anand",
+    "summary": {
+      "en": "Satellite imagery doubled from 500 to over 1,000 satellites in five years, yet commercial revenue remains limited. The real opportunity lies in verticalized products that solve specific industry problems for supply chain managers, urban planners, and first responders, rather than in generic dashboards.",
+      "zh": "衛星影像在五年內從 500 顆增加到超過 1,000 顆衛星,但商業營收仍然有限。真正的機會在於針對特定產業問題打造的垂直化產品,例如為供應鏈管理者、都市規劃者與第一線應變人員量身打造,而非泛用型的儀表板。"
+    },
+    "tags": ["satellites", "earth-observation", "data", "verticals"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-the-next-phase-of-robot-data-collection",
+    "year": "2025",
+    "category": "american-dynamism",
+    "title": {
+      "en": "The Next Phase of Robot Data Collection",
+      "zh": "機器人資料蒐集的下一階段"
+    },
+    "author": "Jacob Phillips",
+    "summary": {
+      "en": "Beyond collecting foundation-scale robot data, the focus is shifting to benchmarks, preference data, and safety evaluations. Organizations are creating complex assessments and red-teaming systems—second-order infrastructure that supports the deployment of generalized robot policies.",
+      "zh": "在蒐集基礎規模的機器人資料之外,重心正轉向基準測試、偏好資料與安全評估。各組織正打造複雜的評測與紅隊演練系統,這類「次級基礎設施」將支撐通用型機器人策略的實際部署。"
+    },
+    "tags": ["robotics", "data", "benchmarks", "safety"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-new-strides-in-free-space-optical-communications",
+    "year": "2025",
+    "category": "american-dynamism",
+    "title": {
+      "en": "New Strides in Free-Space Optical Communications",
+      "zh": "自由空間光通訊的新進展"
+    },
+    "author": "Peter Bowman-Davis",
+    "summary": {
+      "en": "Free-space optical links offer higher bitrates than radio frequency. Advanced modulation schemes, improved beam steering, and precise positioning systems enhance data transfer efficiency, with implications for telecommunications, satellite communications, and defense capabilities.",
+      "zh": "自由空間光通訊鏈路提供比無線電射頻更高的位元傳輸率。先進的調變技術、更精準的光束導向與精密的定位系統,提升了資料傳輸效率,對電信、衛星通訊與國防能力都帶來深遠影響。"
+    },
+    "tags": ["optical-communications", "free-space", "satellites", "defense"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-big-is-back-tackling-common-diseases-again",
+    "year": "2025",
+    "category": "bio-health",
+    "title": {
+      "en": "Big is Back: Tackling Common Diseases (Again)",
+      "zh": "大病再戰:重新挑戰常見疾病"
+    },
+    "author": "Vineeta Agarwala",
+    "summary": {
+      "en": "GLP-1 drugs are creating a $100B+ market by 2030, and breakthrough CAR-T therapies for autoimmune diseases are inspiring new biotech innovation. A German physician's results showed all 15 treatment-resistant patients improved dramatically, signaling a renewed focus on major disease areas.",
+      "zh": "GLP-1 藥物預計到 2030 年將創造超過千億美元的市場,而針對自體免疫疾病的突破性 CAR-T 療法也正激發新一波生技創新。一位德國醫師的研究結果顯示,15 名對既有療法無反應的患者全數獲得顯著改善,象徵業界重新聚焦於重大疾病領域。"
+    },
+    "tags": ["glp-1", "car-t", "biotech", "disease"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-democratizing-health-through-tech",
+    "year": "2025",
+    "category": "bio-health",
+    "title": {
+      "en": "Democratizing Health Through Tech",
+      "zh": "用科技讓健康普及化"
+    },
+    "author": "Vijay Pande",
+    "summary": {
+      "en": "AI-powered blood biomarker analysis, wearables, and full-body screening are shifting healthcare toward prevention. These tools empower patients with unprecedented personal health data, enabling proactive monitoring and early detection in a system traditionally focused on reactive sick care.",
+      "zh": "AI 驅動的血液生物標記分析、穿戴式裝置與全身掃描檢測,正將醫療推向以預防為導向。這些工具讓患者掌握前所未有的個人健康資料,使主動監測與早期偵測成為可能,扭轉傳統上偏重「生病才就醫」的被動醫療體系。"
+    },
+    "tags": ["healthcare", "biomarkers", "wearables", "prevention"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-super-staffing-for-healthcare",
+    "year": "2025",
+    "category": "bio-health",
+    "title": {
+      "en": "Super Staffing for Healthcare",
+      "zh": "醫療業的超級人力配置"
+    },
+    "author": "Julie Yoo",
+    "summary": {
+      "en": "Healthcare faces severe clinical and administrative staffing shortages. Specialist AI models serve as \"super staffing\" platforms, automating rote work while leveraging labor budgets instead of IT budgets, unlocking unprecedented scale for the industry.",
+      "zh": "醫療業正面臨臨床與行政人力的嚴重短缺。專業領域的 AI 模型可作為「超級人力配置」平台,自動化重複性工作,並動用人力預算而非 IT 預算,為整個產業釋放前所未有的規模化潛能。"
+    },
+    "tags": ["healthcare", "staffing", "ai", "automation"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-drug-targets-are-avocados",
+    "year": "2025",
+    "category": "bio-health",
+    "title": {
+      "en": "Drug Targets Are Avocados",
+      "zh": "藥物標靶就像酪梨"
+    },
+    "author": "Jorge Conde",
+    "summary": {
+      "en": "Identifying validated drug targets involves unpredictable timing—\"too early...too early...now—too late!\" Startups need earned secrets: unique insights on emerging targets or differentiated approaches to validated ones. Technology and AI help secure these competitive advantages.",
+      "zh": "鎖定經過驗證的藥物標靶,時機難以預測,就像「太早……太早……就是現在——太遲了!」新創公司需要靠努力換來的獨到洞見:對新興標靶的獨特見解,或對已驗證標靶的差異化切入方式。科技與 AI 有助於鞏固這類競爭優勢。"
+    },
+    "tags": ["drug-discovery", "biotech", "ai", "targets"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-the-ai-drummer-and-the-promise-of-real-time-ai",
+    "year": "2025",
+    "category": "consumer",
+    "title": {
+      "en": "The \"AI Drummer\" and the Promise of Real-Time AI",
+      "zh": "「AI 鼓手」與即時 AI 的願景"
+    },
+    "author": "Anish Acharya",
+    "summary": {
+      "en": "Real-time AI reduces inference latency, enabling seamless co-creation with machines. Applications include AI bandmates, video companions, and educational tools that provide live feedback. This shift redefines creative workflows, where experiencing ideas as they happen unlocks true human-machine collaboration.",
+      "zh": "即時 AI 降低了推論延遲,讓人類能與機器無縫共創。應用包括 AI 樂團夥伴、影片陪伴者,以及能即時回饋的教育工具。這項轉變重新定義了創作流程——當靈感能在發生的當下被體驗,才真正解鎖了人機協作。"
+    },
+    "tags": ["real-time-ai", "creativity", "music", "collaboration"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-ai-video-gets-specialized",
+    "year": "2025",
+    "category": "consumer",
+    "title": {
+      "en": "AI Video Gets Specialized",
+      "zh": "AI 影片走向專業化"
+    },
+    "author": "Bryan Kim",
+    "summary": {
+      "en": "AI-generated video will segment by use case in 2025, achieving greater storyline depth, character consistency, and specialization. Tools optimized for product marketing, cinema, avatars, B-roll, and anime will emerge, tailored to specific channels and formats as an evolving art form.",
+      "zh": "2025 年,AI 生成影片將依使用情境分化,在故事深度、角色一致性與專業化程度上更上一層樓。針對產品行銷、電影、虛擬人物、B-roll 補充畫面與動漫等用途最佳化的工具將陸續出現,並隨著各種渠道與格式量身打造,成為一門持續演進的藝術形式。"
+    },
+    "tags": ["ai-video", "generative-ai", "media", "content"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-the-year-of-the-ai-brain",
+    "year": "2025",
+    "category": "consumer",
+    "title": {
+      "en": "The Year of the \"AI Brain\"",
+      "zh": "「AI 大腦」元年"
+    },
+    "author": "Justine Moore",
+    "summary": {
+      "en": "LLMs can process digital exhaust—texts, emails, tweets, browsing history—to create \"digital brains\" that understand how users think. Applications include self-understanding apps, communication guides, work productivity tools, and infinite memory banks that guide decision-making and personal growth.",
+      "zh": "大型語言模型(LLM)能處理使用者留下的數位足跡——簡訊、電子郵件、推文、瀏覽紀錄——進而打造出理解使用者思考方式的「數位大腦」。應用包括自我認識的應用程式、溝通指引、工作生產力工具,以及能引導決策與個人成長的無限記憶庫。"
+    },
+    "tags": ["ai-brain", "llm", "personalization", "memory"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-knowledge-work-gets-personalized",
+    "year": "2025",
+    "category": "consumer",
+    "title": {
+      "en": "Knowledge Work Gets Personalized",
+      "zh": "知識工作走向個人化"
+    },
+    "author": "Olivia Moore",
+    "summary": {
+      "en": "AI still struggles to produce outputs that sound authentically like an individual. Similar to LoRAs in image generation, knowledge work needs style controls that enable AI to write emails matching a personal voice and format documents per company standards, creating truly personalized assistance.",
+      "zh": "AI 仍難以產出真正貼近個人風格的內容。如同影像生成中的 LoRA,知識工作也需要風格控制機制,讓 AI 能以符合個人語氣的方式撰寫郵件、依公司規範排版文件,從而提供真正個人化的協助。"
+    },
+    "tags": ["knowledge-work", "personalization", "ai", "productivity"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-analyzing-qualitative-data-with-ai",
+    "year": "2025",
+    "category": "consumer",
+    "title": {
+      "en": "Analyzing Qualitative Data with AI",
+      "zh": "用 AI 分析質化資料"
+    },
+    "author": "Zach Cohen",
+    "summary": {
+      "en": "LLMs, web agents, and multimodal models enable the analysis of unstructured data—words, narratives, and insights—merged with quantitative information. This convergence of qualitative and quantitative data creates strategic leverage for building large, AI-native companies through holistic understanding.",
+      "zh": "大型語言模型、網路代理(web agent)與多模態模型,讓非結構化資料——文字、敘事與洞見——得以與量化資訊相互結合進行分析。這種質化與量化的融合,透過全面性的理解,為打造大型 AI 原生公司創造出策略性的競爭優勢。"
+    },
+    "tags": ["qualitative-data", "llm", "analytics", "multimodal"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "slug": "2026-privacy-most-important-moat-in-crypto",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "Privacy will be the most important moat in crypto",
+      "zh": "隱私將成為加密領域最重要的護城河"
+    },
+    "author": "Ali Yahya, General Partner at a16z crypto",
+    "summary": {
+      "en": "Privacy creates chain lock-in through network effects, and while competing on performance alone is insufficient for differentiation, \"bridging secrets is hard\" compared to bridging tokens. Private blockchains enable winner-take-most dynamics because users face metadata leakage risks when crossing between public and private zones, making them less likely to switch chains.",
+      "zh": "隱私透過網路效應創造鏈的鎖定效果;單純比拼效能不足以形成差異化,因為相較於跨鏈轉移代幣,「橋接秘密(secrets)」要困難得多。私有區塊鏈能促成贏家通吃的態勢,因為使用者在公開區與私有區之間移動時會面臨元資料(metadata)外洩風險,因而更不傾向更換鏈。"
+    },
+    "tags": ["privacy", "moat", "network-effects", "blockchain"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-prediction-markets-bigger-broader-smarter",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "Prediction markets go bigger, broader, and smarter",
+      "zh": "預測市場將走向更大、更廣、更聰明"
+    },
+    "author": "Andrew Hall, Research Advisor to the a16z crypto team",
+    "summary": {
+      "en": "Prediction markets will expand beyond major elections to granular outcomes, intersecting with crypto and AI. New contracts will require decentralized governance and LLM oracles for resolution. AI agents trading on these platforms can surface trading signals and reveal predictive patterns about societal events while improving polling infrastructure.",
+      "zh": "預測市場將從重大選舉擴展到更細緻的各類結果,並與加密與 AI 交會。新型合約的結算將需要去中心化治理與 LLM 預言機(oracle)。在這些平台上交易的 AI 代理人能浮現交易訊號、揭示關於社會事件的預測性模式,同時也能改善民調基礎設施。"
+    },
+    "tags": ["prediction-markets", "ai-agents", "oracles", "governance"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-crypto-native-tokenization-and-stablecoins",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "Thinking about tokenization of real world assets, and stablecoins, in a more crypto-native way",
+      "zh": "以更貼近加密原生(crypto-native)的方式思考真實世界資產的代幣化與穩定幣"
+    },
+    "author": "Guy Wuollet, General Partner at Andreessen Horowitz",
+    "summary": {
+      "en": "Rather than skeuomorphic tokenization, crypto-native approaches like perpetual futures offer deeper liquidity and stronger product-market fit. For stablecoins, the focus should shift from tokenization to origination—debt assets should be created onchain rather than originated offchain then tokenized, reducing costs and increasing accessibility.",
+      "zh": "與其採用「擬物式(skeuomorphic)」的代幣化,永續期貨等加密原生方法能提供更深的流動性與更強的產品市場契合度。對於穩定幣,焦點應從代幣化轉向「原生發行(origination)」——債務資產應直接在鏈上創造,而非先在鏈下發行再代幣化,如此可降低成本並提高可及性。"
+    },
+    "tags": ["tokenization", "stablecoin", "rwa", "defi"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-trading-as-a-way-station-not-last-stop",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "Trading as a way station, not the last stop, for crypto businesses",
+      "zh": "對加密企業而言,交易是中途站而非終點"
+    },
+    "author": "Arianna Simpson, General Partner at a16z crypto",
+    "summary": {
+      "en": "Most successful crypto companies have pivoted to trading, but this cannibalizes mindshare and creates commodity competition. Founders chasing immediate gratification through trading miss building defensible, durable businesses. \"The founders who focus on the product part of product-market fit may end up the bigger winners.\"",
+      "zh": "多數成功的加密公司最終都轉向交易業務,但這會侵蝕用戶心智佔有率並陷入商品化的同質競爭。創辦人若透過交易追求即時滿足,就會錯失打造具防禦力、可長久經營事業的機會。「專注於『產品市場契合』中『產品』那一端的創辦人,最終可能成為更大的贏家。」"
+    },
+    "tags": ["trading", "founders", "product-market-fit", "business-model"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-from-kyc-to-know-your-agent-kya",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "From know your customer (KYC) to 'know your agent' (KYA)",
+      "zh": "從「認識你的客戶」(KYC)到「認識你的代理人」(KYA)"
+    },
+    "author": "Sean Neville, Cofounder of Circle, CEO of Catena Labs",
+    "summary": {
+      "en": "The agent economy bottleneck has shifted from intelligence to identity. Non-human identities now outnumber human employees 96-to-1 yet remain unbanked. KYA—cryptographically signed credentials linking agents to principals, constraints, and liability—is essential for merchants to accept agent transactions at scale.",
+      "zh": "代理人經濟的瓶頸已從智慧轉移到身分。非人類身分如今以 96 比 1 的比例超過人類員工,卻仍無法接觸銀行服務。KYA——以密碼學簽署的憑證,將代理人連結到其委託方、權限約束與責任歸屬——是商家得以大規模接受代理人交易的關鍵。"
+    },
+    "tags": ["kyc", "kya", "ai-agents", "identity"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-better-onramps-offramps-for-stablecoins",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "Better, more clever onramps/offramps for stablecoins",
+      "zh": "為穩定幣打造更好、更聰明的出入金管道(onramp/offramp)"
+    },
+    "author": "Jeremy Zhang, Full Stack Web Developer on a16z's Crypto team",
+    "summary": {
+      "en": "Stablecoins processed $46 trillion in volume last year—exceeding PayPal 20x and approaching ACH volumes. While transfers cost under a cent in seconds, connecting digital dollars to existing financial rails remains unsolved. New startups using cryptographic proofs, QR codes, and card-issuing platforms will make stablecoin onboarding mainstream.",
+      "zh": "穩定幣去年處理了 46 兆美元的交易量——是 PayPal 的 20 倍,並逼近 ACH 的規模。雖然轉帳只需數秒、成本不到一美分,但如何將數位美元接上既有的金融軌道仍未解決。運用密碼學證明、QR Code 與發卡平台的新創公司,將讓穩定幣的入門普及化。"
+    },
+    "tags": ["stablecoin", "onramp", "payments", "fintech"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-stablecoins-unlock-bank-ledger-upgrade-cycle",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "Stablecoins unlock the bank ledger upgrade cycle — and new payment scenarios",
+      "zh": "穩定幣開啟銀行帳本的升級週期——並帶來全新的支付場景"
+    },
+    "author": "Sam Broner, Investing Partner for a16z crypto team",
+    "summary": {
+      "en": "Legacy banking systems running 1960s-1980s software on mainframes with COBOL create technical debt blocking innovation. Stablecoins and tokenized assets enable institutions to build new products without rewriting decades-old systems, providing innovation pathways while maintaining regulatory compliance and reliability.",
+      "zh": "傳統銀行系統仍在大型主機上運行 1960 至 1980 年代以 COBOL 撰寫的軟體,累積的技術債阻礙了創新。穩定幣與代幣化資產讓金融機構無需重寫數十年的老舊系統即可打造新產品,在維持法規遵循與可靠性的同時,提供了創新的途徑。"
+    },
+    "tags": ["stablecoin", "banking", "legacy-systems", "payments"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-future-of-messaging-is-decentralized",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "The (near) future of messaging isn't just quantum-resistant. It's decentralized",
+      "zh": "通訊的(近)未來不只是抗量子,更是去中心化"
+    },
+    "author": "Shane Mac, Co-founder and CEO of XMTP Labs",
+    "summary": {
+      "en": "Current messengers rely on centralized servers vulnerable to government shutdown or corporate control. Quantum encryption alone is insufficient. Open protocols with no private servers, all open-source code, and decentralized networks ensure \"no single person, company, non-profit, or country can take away ability to communicate.\"",
+      "zh": "現今的通訊軟體依賴中心化伺服器,易受政府關閉或企業控制的威脅。光靠量子加密並不足夠。沒有私有伺服器、程式碼全面開源、且採用去中心化網路的開放協定,才能確保「沒有任何個人、公司、非營利組織或國家能夠剝奪人們溝通的能力」。"
+    },
+    "tags": ["messaging", "decentralization", "quantum-resistant", "open-protocols"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-from-code-is-law-to-spec-is-law",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "From 'code is law' to 'spec is law'",
+      "zh": "從「程式碼即法律」走向「規格即法律」"
+    },
+    "author": "Daejun Park, Senior Blockchain Security Engineer at a16z crypto",
+    "summary": {
+      "en": "DeFi hacks reveal that current security practices remain heuristic. Moving from bug patterns to design-level properties requires systematic invariant proving and runtime enforcement. \"AI-assisted proof tools can help write specs, propose invariants\" and encode guardrails as runtime assertions reversing exploitative transactions.",
+      "zh": "DeFi 遭駭事件顯示,目前的安全實務仍停留在經驗法則層次。要從修補錯誤模式提升到設計層級的性質保證,需要系統化的不變量(invariant)證明與執行期強制。「AI 輔助的證明工具能協助撰寫規格、提出不變量」,並把防護機制編碼為執行期斷言,以回滾(reverse)惡意利用的交易。"
+    },
+    "tags": ["defi", "security", "formal-verification", "ai"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-crypto-offers-new-primitive-beyond-blockchains",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "Crypto offers a new primitive for use beyond blockchains",
+      "zh": "加密技術提供一種超越區塊鏈本身的新型基礎元件(primitive)"
+    },
+    "author": "Justin Thaler, Research Partner at a16z and Associate Professor at Georgetown University",
+    "summary": {
+      "en": "SNARKs had impractical overhead (1,000,000X) but zkVM provers will hit ~10,000X overhead with small memory footprints by 2026. Single GPUs will generate CPU execution proofs in real time, unlocking verifiable cloud computing—cryptographic correctness proofs for non-GPU workloads at reasonable overhead.",
+      "zh": "SNARK 過去的運算開銷高得不切實際(高達 100 萬倍),但到 2026 年,zkVM 證明器(prover)的開銷將降至約 1 萬倍,且記憶體佔用很小。單顆 GPU 即可即時產生 CPU 執行的證明,從而開啟可驗證的雲端運算——能以合理開銷,為非 GPU 工作負載提供密碼學的正確性證明。"
+    },
+    "tags": ["zkvm", "snarks", "verifiable-computing", "cryptography"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-use-ai-for-substantive-research-tasks",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "We'll use AI for substantive research tasks",
+      "zh": "我們將運用 AI 執行實質性的研究工作"
+    },
+    "author": "Scott Duke Kominers, Research Partner at a16z crypto",
+    "summary": {
+      "en": "AI models now execute abstract research instructions like doctoral students, occasionally returning novel correct answers. New polymath research styles favoring conjecture and extrapolation emerge. Ensembles of wrapped reasoning agents require better model interoperability and compensation mechanisms—problems crypto can address.",
+      "zh": "AI 模型如今已能像博士生般執行抽象的研究指令,偶爾還會給出新穎而正確的答案。一種偏好提出猜想與外推的新型「通才(polymath)」研究風格正在興起。由多個封裝過的推理代理人組成的協作群,需要更佳的模型互通性與報酬機制——而這正是加密技術可以解決的問題。"
+    },
+    "tags": ["ai", "research", "interoperability", "reasoning-agents"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-the-invisible-tax-on-the-open-web",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "The invisible tax on the open web",
+      "zh": "開放網路上的隱形稅"
+    },
+    "author": "Elizabeth Harkavy, Partner on a16z crypto investment team",
+    "summary": {
+      "en": "AI agents extract data from ad-supported sites while bypassing revenue streams funding content creation. Current licensing deals prove financially unsustainable. Solutions require moving from static licensing to real-time, usage-based compensation via blockchain-enabled nanopayments and attribution systems automatically rewarding contributors.",
+      "zh": "AI 代理人從仰賴廣告營收的網站抓取資料,卻繞過了支撐內容創作的收入來源。現行的授權協議在財務上被證明難以為繼。解方需要從靜態授權轉向即時、依使用量計費的補償方式——透過區塊鏈支援的微奈支付(nanopayments)與歸因系統,自動回饋給貢獻者。"
+    },
+    "tags": ["open-web", "ai-agents", "nanopayments", "content-monetization"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-the-rise-of-staked-media",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "The rise of staked media",
+      "zh": "「質押式媒體」(staked media)的崛起"
+    },
+    "author": "Robert Hackett, Operating Partner and Head of Content/Editorial for a16z crypto",
+    "summary": {
+      "en": "Media credibility can shift from claimed neutrality to verifiable stakes. Tokenized assets, lockups, prediction markets, and onchain histories enable commentators to prove commitment through financial risk. \"Staked media supplements existing forms, offering signal: not just neutrality, but transparent, verifiable commitments.\"",
+      "zh": "媒體的公信力可以從「宣稱的中立」轉向「可驗證的投入」。代幣化資產、鎖倉、預測市場與鏈上歷史紀錄,讓評論者得以透過承擔財務風險來證明自己的立場。「質押式媒體是對既有形式的補充,提供的是一種訊號:不只是中立,而是透明、可驗證的承諾。」"
+    },
+    "tags": ["media", "credibility", "prediction-markets", "onchain"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-secrets-as-a-service",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "'Secrets-as-a-service'",
+      "zh": "「秘密即服務」(Secrets-as-a-Service)"
+    },
+    "author": "Adeniyi Abiodun, Chief Product Officer and Co-founder of Mysten Labs",
+    "summary": {
+      "en": "Most data pipelines lack privacy controls, blocking institutional participation in tokenized assets and onchain innovation. Secrets-as-a-service provides programmable data access rules, client-side encryption, and decentralized key management enforcing conditional decryption onchain, making privacy core infrastructure rather than afterthought.",
+      "zh": "多數資料管線缺乏隱私控制,阻礙了機構參與代幣化資產與鏈上創新。「秘密即服務」提供可程式化的資料存取規則、客戶端加密,以及去中心化的金鑰管理,在鏈上強制執行條件式解密,讓隱私成為核心基礎設施,而非事後補救的附加功能。"
+    },
+    "tags": ["privacy", "encryption", "key-management", "infrastructure"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-wealth-management-for-all",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "Wealth management for all",
+      "zh": "人人皆可享有的財富管理"
+    },
+    "author": "Maggie Hsu, Head of Go-to-Market for a16z crypto",
+    "summary": {
+      "en": "Tokenized assets enable personalized active portfolio management across classes with instant rebalancing at minimal cost. Platforms like Morpho automatically allocate to yield-bearing protocols. Retail access to illiquid assets (private credit, pre-IPO stakes, private equity) through tokenization expands balanced portfolio construction possibilities.",
+      "zh": "代幣化資產讓跨資產類別的個人化主動式投資組合管理成為可能,並能以極低成本即時再平衡。像 Morpho 這類平台會自動將資金配置到具收益的協定。透過代幣化,散戶得以接觸過去流動性不足的資產(私募信貸、IPO 前股權、私募股權),擴大了建構均衡投資組合的可能性。"
+    },
+    "tags": ["tokenization", "wealth-management", "defi", "portfolio"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-the-internet-becomes-the-bank",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "The internet becomes the bank",
+      "zh": "網際網路本身成為銀行"
+    },
+    "author": "Christian Crowley, Business Development Partner for a16z crypto",
+    "summary": {
+      "en": "As agents operate autonomously, value must move as freely as information. Smart contracts enable programmable, reactive settlements via primitives like x402. \"If money becomes a packet the internet can route, then the internet doesn't just support the financial system—it becomes the financial system.\"",
+      "zh": "隨著代理人自主運作,價值的流動必須像資訊一樣自由。智能合約透過 x402 之類的基礎元件,實現可程式化、可即時反應的結算。「如果金錢變成網際網路能夠路由的封包,那麼網際網路就不只是支撐金融體系——它本身就成為金融體系。」"
+    },
+    "tags": ["payments", "smart-contracts", "x402", "ai-agents"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  },
+  {
+    "slug": "2026-legal-architecture-matches-technical-architecture",
+    "year": "2026",
+    "part": "Part 3",
+    "category": "crypto",
+    "title": {
+      "en": "Unleashing the full potential of blockchains… when legal architecture finally matches technical architecture",
+      "zh": "當法律架構終於與技術架構接軌時,釋放區塊鏈的全部潛能"
+    },
+    "author": "Miles Jennings, General Counsel and Head of Decentralization for a16z crypto",
+    "summary": {
+      "en": "Legal uncertainty forced founders into company-oriented frameworks, creating distortions: avoided transparency, arbitrary distributions, theater governance. Pending crypto market structure regulation would eliminate these through clear standards, replacing enforcement uncertainty with structured paths for fundraising and decentralization, enabling networks to operate authentically.",
+      "zh": "法律的不確定性迫使創辦人套用以公司為中心的框架,進而造成種種扭曲:迴避透明度、任意進行代幣分配、流於形式的治理。即將出台的加密市場結構法規可望以明確標準消除這些問題,以結構化的募資與去中心化路徑取代執法上的不確定性,讓網路得以真正名實相符地運作。"
+    },
+    "tags": ["regulation", "legal", "decentralization", "governance"],
+    "source": "https://a16z.com/newsletter/big-ideas-2026-part-3/"
+  }
+]

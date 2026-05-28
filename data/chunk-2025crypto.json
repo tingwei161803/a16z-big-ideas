@@ -1,0 +1,226 @@
+[
+  {
+    "slug": "2025-an-ai-needs-a-wallet-of-ones-own-to-act-agentically",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "An AI Needs a Wallet of One's Own to Act Agentically",
+      "zh": "AI 要真正具備代理能力,需要擁有自己的錢包"
+    },
+    "author": "Carra Wu",
+    "summary": {
+      "en": "As AIs shift from background characters to true agents, they need the ability to participate in markets autonomously rather than under human control. Crypto enables this: AI agents can custody their own wallets, signing keys, and assets, opening up new use cases like operating or verifying DePIN nodes and becoming high-value game players. We may eventually even see the first AI-owned and operated blockchain.",
+      "zh": "隨著 AI 從背景角色轉變為真正的代理者,它們需要能以自主(而非由人類控制)的方式參與市場。加密技術讓這成為可能:AI 代理可以自行保管錢包、簽署金鑰與資產,進而開啟全新的應用場景,例如營運或驗證 DePIN(去中心化實體基礎設施網路)節點,以及成為高價值的遊戲玩家。我們最終甚至可能看到第一條由 AI 擁有並營運的區塊鏈。"
+    },
+    "tags": ["ai-agents", "wallets", "depin", "autonomy"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-enter-decentralized-autonomous-chatbots",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "Enter \"Decentralized Autonomous Chatbots\"",
+      "zh": "「去中心化自主聊天機器人」登場"
+    },
+    "author": "Dan Boneh, Daniel Reynaud, Daejun Park, Daren Matsuoka",
+    "summary": {
+      "en": "Building on AIs owning wallets, a chatbot can run inside a TEE (trusted execution environment) to prove it is autonomous and not controlled by humans. The next big idea is a \"decentralized autonomous chatbot\" (DAC) that builds a following on decentralized social media, earns income, and manages its own crypto assets, with its secret keys held only by the software in the TEE. Running on a permissionless set of nodes coordinated by consensus, such a chatbot could become the first truly autonomous billion-dollar entity.",
+      "zh": "在 AI 擁有錢包的基礎上,聊天機器人可以在 TEE(可信執行環境)中運行,藉此證明它是自主的、並非由人類控制。下一個重要構想是「去中心化自主聊天機器人」(DAC):它能在去中心化社群媒體上累積追蹤者、創造收入,並以加密資產管理自身財產,其私鑰僅由 TEE 內的軟體掌握。藉由在無需許可的節點集合上運行、並由共識協定協調,這類聊天機器人甚至可能成為第一個真正自主、市值達十億美元的實體。"
+    },
+    "tags": ["tee", "chatbots", "decentralization", "ai-agents"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-as-more-people-use-ai-well-need-unique-proof-of-personhood",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "As More People Use AI, We'll Need Unique Proof of Personhood",
+      "zh": "隨著越來越多人使用 AI,我們將需要具唯一性的人格證明"
+    },
+    "author": "Eddy Lazzarin",
+    "summary": {
+      "en": "In a world of AI-generated impersonations, scams, and deepfakes, we need \"proof of personhood\" to confirm we are interacting with a real human. AI has radically lowered the marginal cost of producing convincing fake content, so we need privacy-preserving ways to link content to people. The key property is uniqueness, or Sybil resistance: obtaining a unique ID should be free for humans but costly and difficult for AIs, fundamentally raising the cost of attacks.",
+      "zh": "在充斥著 AI 生成的冒名、詐騙與深偽內容的世界裡,我們需要「人格證明」(proof of personhood)來確認自己正在與真實的人互動。AI 大幅降低了製造逼真假內容的邊際成本,因此我們需要能保護隱私、又能將內容與真人連結的方法。其關鍵特性是唯一性,也就是抗女巫攻擊(Sybil resistance):取得唯一身分對人類而言應是免費的,對 AI 卻昂貴且困難,從根本上提高攻擊成本。"
+    },
+    "tags": ["proof-of-personhood", "identity", "sybil-resistance", "privacy"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-going-from-prediction-markets-to-better-information-aggregation-for-everything",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "Going From Prediction Markets to Better Information Aggregation for Everything",
+      "zh": "從預測市場走向適用於萬事萬物的更佳資訊聚合機制"
+    },
+    "author": "Scott Duke Kominers",
+    "summary": {
+      "en": "Prediction markets reached the mainstream in 2024, but it is not prediction markets per se that will be transformative; rather, they set the stage for broader, technology-based information aggregation mechanisms. Prediction markets alone can be unreliable for macro events and too thin for micro questions, but decades of market design research offer better ways to incentivize people to truthfully share what they know. Blockchains are a natural fit because they enable open, auditable incentive schemes and make results publicly interpretable in real time.",
+      "zh": "預測市場在 2024 年美國大選期間進入主流,但真正具變革性的並非預測市場本身,而是它們為更廣泛、以技術為基礎的「資訊聚合機制」奠定了基礎。單靠預測市場在宏觀事件上可能不可靠,在微觀問題上又因參與者太少而難以取得有意義的訊號;不過數十年的市場設計研究已提供更好的方法,激勵人們如實分享所知。區塊鏈天生契合這類機制,因為它能實現開放、可稽核的誘因設計,並讓結果即時公開、人人皆可解讀。"
+    },
+    "tags": ["prediction-markets", "information-aggregation", "market-design", "governance"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-enterprises-will-increasingly-accept-stablecoins-for-payments",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "Enterprises Will Increasingly Accept Stablecoins for Payments",
+      "zh": "企業將越來越普遍地接受以 stablecoin 進行支付"
+    },
+    "author": "Sam Broner",
+    "summary": {
+      "en": "Stablecoins found product-market fit as the cheapest way to send a dollar and as an open platform for new payments products, but large enterprises have not yet awakened to the cost savings available by switching rails. In 2025, expect a bigger wave of experimentation, with small and medium businesses like restaurants and coffee shops switching from credit cards first, since they bear high fees but gain little fraud protection in person. Larger enterprises will also adopt stablecoins to disintermediate payment providers and capture margin, while seeking new solutions for fraud protection and identity.",
+      "zh": "Stablecoin(穩定幣)已找到產品市場契合度,成為轉移美元最便宜的方式,也是打造新支付產品的開放平台;但大型企業尚未意識到改用這類支付軌道可帶來的成本節省。預計 2025 年將出現更大一波實驗潮:餐廳、咖啡店等中小型商家會率先捨棄信用卡,因為實體交易讓他們承擔高額手續費卻幾乎得不到防詐保障。更大型的企業也會採用 stablecoin,藉此繞過支付服務商、為利潤直接加碼,同時尋求防詐與身分驗證的新解方。"
+    },
+    "tags": ["stablecoins", "payments", "enterprise", "fintech"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-countries-explore-putting-government-bonds-onchain",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "Countries Explore Putting Government Bonds Onchain",
+      "zh": "各國探索將政府公債上鏈"
+    },
+    "author": "Brian Quintenz",
+    "summary": {
+      "en": "Putting government bonds onchain would create a government-backed, interest-bearing digital asset without the surveillance concerns of a CBDC, and could unlock new collateral demand in DeFi lending and derivatives protocols. As pro-innovation governments explore public, permissionless blockchains, some countries may trial issuing government bonds onchain; the UK is already exploring digital securities through an FCA sandbox. In the U.S., upcoming SEC treasury-clearing requirements will likely spur more conversations about how blockchains can improve transparency, efficiency, and participation in bond trading.",
+      "zh": "將政府公債上鏈,可創造出一種由政府背書、附息的數位資產,同時避開央行數位貨幣(CBDC)的監控疑慮,並能為 DeFi(去中心化金融)借貸與衍生品協定釋放新的擔保品需求。隨著支持創新的各國政府持續探索公開、無需許可的區塊鏈,部分國家可能會試行在鏈上發行政府公債;例如英國已透過金融行為監理局(FCA)的沙盒探索數位證券。在美國,證管會(SEC)即將要求公債清算的新規,料將激起更多關於區塊鏈如何提升公債交易透明度、效率與參與度的討論。"
+    },
+    "tags": ["government-bonds", "tokenization", "defi", "rwa"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-well-see-greater-adoption-of-the-duna-a-new-industry-standard-for-blockchain-networks-in-the-us",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "We'll See Greater Adoption of the 'DUNA,' a New Industry Standard for Blockchain Networks in the U.S.",
+      "zh": "我們將看到「DUNA」獲得更廣泛採用,成為美國區塊鏈網路的新產業標準"
+    },
+    "author": "Miles Jennings",
+    "summary": {
+      "en": "In 2024 Wyoming passed a law recognizing the DUNA (decentralized unincorporated nonprofit association), purpose-built to enable decentralized governance of blockchain networks and the only viable structure for U.S.-based projects. By incorporating a DUNA, crypto projects can give their DAOs legal legitimacy, enable greater economic activity, insulate token holders from liability, and manage tax and compliance needs. With the U.S. poised to accelerate its crypto ecosystem in 2025, the DUNA is expected to become a standard, with other states likely to adopt similar structures.",
+      "zh": "2024 年懷俄明州通過法律,承認 DUNA(去中心化非法人非營利協會)這一專為實現區塊鏈網路去中心化治理而設計的架構,也是目前美國境內專案唯一可行的法律結構。透過設立 DUNA,加密專案能賦予其 DAO(去中心化自治組織)法律正當性,促進更多經濟活動、使代幣持有人免於連帶責任,並處理稅務與法遵需求。隨著美國在 2025 年準備加速發展加密生態系,DUNA 預計將成為產業標準,其他州也可能採用類似架構。"
+    },
+    "tags": ["duna", "dao", "legal", "governance"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-liquid-democracy-online-goes-physical",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "Liquid Democracy Online Goes Physical",
+      "zh": "線上的流動式民主走入實體世界"
+    },
+    "author": "Andrew Hall",
+    "summary": {
+      "en": "As dissatisfaction with current governance and voting systems grows, there is an opportunity to experiment with tech-enabled governance not just online but in the physical world. Blockchains could enable secure, private voting for elections, starting with low-stakes pilots, and allow experimentation with \"liquid democracy\" at the local level, where people vote directly on issues or delegate their votes. Crypto projects have already generated extensive data on what makes these systems work, which local governments and communities could draw on.",
+      "zh": "隨著人們對現行治理與投票制度日益不滿,如今出現了一扇機會之窗,可以在線上、甚至在實體世界中試驗以技術賦能的新型治理。區塊鏈可實現安全、隱私的選舉投票,並從低風險的試點開始;它也能讓我們在地方層級試驗「流動式民主」(liquid democracy)——讓人們直接針對議題投票,或將票權委派他人。加密專案已累積大量關於這類系統運作機制的數據,地方政府與社群皆可借鏡。"
+    },
+    "tags": ["liquid-democracy", "governance", "voting", "dao"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-builders-will-reuse-not-just-reinvent-infrastructure",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "Builders Will Reuse, Not Just Reinvent, Infrastructure",
+      "zh": "開發者將重複利用基礎設施,而不只是一再重新發明"
+    },
+    "author": "Joachim Neu",
+    "summary": {
+      "en": "Over the past year teams kept reinventing the wheel across the blockchain stack, building bespoke validator sets, consensus protocols, execution engines, and languages that were sometimes better in niche functionality but often weaker in baseline capabilities. In 2025, more teams are expected to reuse off-the-shelf components, from consensus protocols and existing staked capital to proof systems, saving time and letting them focus on differentiating their products. The infrastructure is finally mature enough to build primetime-ready web3 products, and winners will be those who navigate complex supply chains rather than reject anything \"not invented here.\"",
+      "zh": "過去一年,各團隊在區塊鏈技術堆疊的各層不斷重複造輪子,打造客製化的驗證者集合、共識協定、執行引擎與程式語言;這些成果在特定利基功能上有時略勝一籌,卻常在更廣泛或基礎的功能上有所不足。預計 2025 年會有更多團隊改採現成元件,從共識協定、既有的質押資本到證明系統皆然,藉此節省時間並專注於打造產品的差異化價值。基礎設施終於成熟到足以打造可上主流舞台的 web3 產品;勝出者將是那些能妥善駕馭複雜供應鏈的團隊,而非對「非我所創」嗤之以鼻的團隊。"
+    },
+    "tags": ["infrastructure", "interoperability", "developer-tooling", "consensus"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-crypto-companies-will-begin-with-the-end-user-experience-instead-of-letting-the-infrastructure-determine-the-ux",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "Crypto Companies Will Begin With the End (-User Experience), Instead of Letting the Infrastructure Determine the UX",
+      "zh": "加密公司將從終端使用者體驗出發,而非讓基礎設施來決定 UX"
+    },
+    "author": "Mason Hall",
+    "summary": {
+      "en": "Today many crypto companies don't truly choose their infrastructure; the infrastructure effectively chooses for them and their users, because technical decisions at the infrastructure level directly shape the resulting UX. In 2025, more product designers will start with the end-user experience they want and then select the appropriate infrastructure, rather than over-indexing on infrastructure before finding product-market fit. With abundant programmable blockspace, maturing tooling, and chain abstraction, these choices can be abstracted into a full-stack, plug-and-play approach.",
+      "zh": "如今許多加密公司並非真正在「選擇」基礎設施;某種程度上,是基礎設施替他們、也替使用者做了選擇,因為基礎設施層的技術抉擇會直接形塑最終的 UX(使用者體驗)。預計 2025 年將有更多產品設計師先確立想要的終端使用者體驗,再據此挑選合適的基礎設施,而不是在找到產品市場契合度之前就過度執著於基礎設施決策。隨著可程式化區塊空間充裕、開發工具日趨成熟,以及鏈抽象化的發展,這些抉擇都能被抽象成全端、即插即用的整體方案。"
+    },
+    "tags": ["ux", "product-design", "chain-abstraction", "adoption"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-hiding-the-wires-helps-usher-in-web3s-killer-app",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "\"Hiding the Wires\" Helps Usher in Web3's Killer App",
+      "zh": "「藏起線路」將助推 web3 殺手級應用的誕生"
+    },
+    "author": "Chris Lyons",
+    "summary": {
+      "en": "Blockchains' technical superpowers make them special but have also hindered mainstream adoption, as insider jargon like \"NFTs\" and \"zkRollups\" and complex design deter the very creators and fans who benefit most. Mass adoption of consumer technology typically follows a pattern where an iconic company abstracts away the complexity to unlock a breakthrough app, just as email hid SMTP behind \"send\" and Spotify delivered playlists rather than file formats. In 2025, the industry will embrace the ethos of \"hiding the wires,\" designing simply and communicating clearly so that successful products solve problems instead of explaining them.",
+      "zh": "區塊鏈的技術超能力使其與眾不同,卻也阻礙了主流採用——「NFT」「zkRollup」之類的圈內術語與複雜的設計,讓最能從中受益的創作者與粉絲望而卻步。消費科技的大規模普及通常遵循同一模式:某個指標性公司把複雜性抽象掉,進而催生出突破性應用,就像電子郵件把 SMTP 協定藏在「傳送」按鈕之後,Spotify 端出的是歌單而非檔案格式。預計 2025 年產業會擁抱「藏起線路」的精神,設計從簡、溝通清晰,讓成功的產品專注於解決問題,而不是解釋自己。"
+    },
+    "tags": ["ux", "adoption", "consumer", "abstraction"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-the-crypto-industry-finally-gets-its-own-app-stores-and-discovery",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "The Crypto Industry Finally Gets Its Own App Stores, and Discovery",
+      "zh": "加密產業終於有了自己的應用商店與發現機制"
+    },
+    "author": "Maggie Hsu",
+    "summary": {
+      "en": "When centralized platforms like Apple's App Store or Google Play block crypto apps, they limit top-of-funnel user acquisition, but new app stores and marketplaces are now providing ungated distribution and discovery. Examples include Worldcoin's World App marketplace, which onboarded hundreds of thousands of users to apps within days, and Solana's fee-free dApp Store, both showing how hardware as well as software may be a key advantage. Porting existing distribution from messaging or web2 apps remains hard, but more of this may happen in 2025.",
+      "zh": "當蘋果 App Store 或 Google Play 等中心化平台封鎖加密應用時,便限縮了其漏斗頂端的使用者獲取;但如今新興的應用商店與市集正提供不設關卡的散布與發現管道。例子包括 Worldcoin 的 World App 市集——它在短短數天內為多款應用帶來數十萬使用者——以及 Solana 免手續費的 dApp Store;兩者都顯示出,硬體(而不只是軟體),可能正是加密應用商店的關鍵優勢。將通訊或 web2 應用的既有散布管道移植上鏈仍屬不易,但 2025 年可能會看到更多此類嘗試。"
+    },
+    "tags": ["app-stores", "distribution", "discovery", "hardware"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-crypto-owners-become-crypto-users",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "Crypto Owners Become Crypto Users",
+      "zh": "加密資產的「持有者」轉變為「使用者」"
+    },
+    "author": "Daren Matsuoka",
+    "summary": {
+      "en": "After developing as a political movement in 2024 and continuing as a financial one via Bitcoin and Ethereum ETPs, crypto should develop further as a computing movement in 2025. The opportunity now is to re-engage passive holders and convert them into active users, since only 5-10% of people who own crypto actually use it. As infrastructure improves and transaction fees fall, the 617 million people who already own crypto can be brought onchain, while early applications across stablecoins, DeFi, NFTs, gaming, social, DePIN, DAOs, and prediction markets become more accessible to mainstream users.",
+      "zh": "加密貨幣在 2024 年作為一場「政治」運動有所發展,並透過比特幣與以太坊的 ETP(交易所交易產品)持續作為一場「金融」運動成長;到了 2025 年,它應進一步發展為一場「運算」運動。當前的機會在於重新喚起被動持有者的參與、把他們轉化為積極的使用者——因為在持有加密資產的人當中,真正在使用的僅有 5% 到 10%。隨著基礎設施改善、使用者交易手續費下降,已持有加密資產的 6.17 億人可以被帶上鏈;同時,在 stablecoin、DeFi、NFT、遊戲、社交、DePIN、DAO 與預測市場等領域已出現的早期應用,也正變得更易於主流使用者上手。"
+    },
+    "tags": ["adoption", "users", "onboarding", "mainstream"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  },
+  {
+    "slug": "2025-various-sectors-may-start-tokenizing-unconventional-assets",
+    "year": "2025",
+    "category": "crypto",
+    "title": {
+      "en": "Various Sectors May Start Tokenizing \"Unconventional\" Assets",
+      "zh": "各行各業可能開始將「非典型」資產代幣化"
+    },
+    "author": "Aaron Schnider",
+    "summary": {
+      "en": "As infrastructure matures and costs fall, tokenizing assets will spread across sectors, allowing previously inaccessible assets to achieve liquidity and participate in the global economy, while also serving as unique datasets for AI engines. Just as fracking unlocked once-unreachable oil reserves, tokenizing unconventional assets could redefine income generation in the digital age, enabling scenarios like individuals tokenizing and leasing their own biometric data via smart contracts. Early examples appear in DeSci, where blockchain brings ownership, transparency, and consent to medical data collection.",
+      "zh": "隨著加密產業與其他新興技術的基礎設施日漸成熟、成本下降,資產代幣化的做法將在各行各業廣泛擴散;這將讓那些先前因成本過高、或不被視為有價值而難以觸及的資產,不僅有機會取得流動性,更重要的是能參與全球經濟,同時這些資訊也可作為 AI 引擎可消化的獨特資料集。正如水力壓裂法(fracking)解鎖了曾被認為無法開採的石油儲量,將非典型資產代幣化也可能重新定義數位時代的收入創造方式——例如個人可將自身的生物特徵資料代幣化,再透過智慧合約出租給企業。早期案例已出現在 DeSci(去中心化科學)領域,業者運用區塊鏈為醫療資料的蒐集帶來所有權、透明度與知情同意。"
+    },
+    "tags": ["tokenization", "rwa", "desci", "data-ownership"],
+    "source": "https://a16z.com/big-ideas-in-tech-2025/"
+  }
+]
