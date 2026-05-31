@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c1410"/>
+      <stop offset="1" stop-color="#2a1206"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff6a3d"/>
+      <stop offset="1" stop-color="#8430ce"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="64" y="74" width="74" height="74" rx="18" fill="url(#accent)"/>
+  <text x="101" y="124" font-family="monospace" font-size="34" font-weight="700" fill="#fff" text-anchor="middle">a16</text>
+  <text x="160" y="112" font-family="'Roboto Flex',sans-serif" font-size="30" fill="#cfc4ba">Andreessen Horowitz · Big Ideas</text>
+  <text x="64" y="300" font-family="'Roboto Flex',sans-serif" font-size="92" font-weight="700" fill="#fff">96 個科技大點子</text>
+  <text x="64" y="392" font-family="'Roboto Flex',sans-serif" font-size="60" font-weight="700" fill="url(#accent)">2025 + 2026</text>
+  <text x="64" y="470" font-family="'Roboto Flex',sans-serif" font-size="30" fill="#cfc4ba">統計總覽 · 現況查核 · 可排序資料表 · 分類導覽 · 中英雙語</text>
+  <g font-family="monospace" font-size="24" fill="#ff8a63">
+    <text x="64" y="556">tingwei161803.github.io/a16z-big-ideas</text>
+  </g>
+</svg>
