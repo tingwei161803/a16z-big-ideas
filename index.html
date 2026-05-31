@@ -1,129 +1,175 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-Hant" data-theme="light">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <!-- ==== Primary meta ==== -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>a16z 科技大點子圖鑑 · Big Ideas Explorer</title>
-  <meta name="description" content="Andreessen Horowitz 的 96 個科技大點子(2025 與 2026),可依年份、團隊分類搜尋與篩選。中英文全頁切換。" />
-  <link rel="canonical" href="https://tingwei161803.github.io/a16z-big-ideas/" />
-  <meta name="theme-color" content="#6750A4" />
+  <meta name="description" content="Andreessen Horowitz 2025 + 2026 的 96 個科技大點子:統計總覽、現況查核、可排序資料表、分類導覽。中英雙語互動圖鑑,非官方整理。" />
+  <meta name="keywords" content="a16z, Andreessen Horowitz, Big Ideas, 科技預測, 創投, AI, Crypto, American Dynamism, Bio Health, 2025, 2026" />
+  <meta name="author" content="Unofficial study companion" />
+  <meta name="theme-color" content="#ff6a3d" />
 
-  <!-- ==== Open Graph ==== -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="a16z 科技大點子圖鑑 · Big Ideas Explorer" />
-  <meta property="og:description" content="Andreessen Horowitz 的 96 個科技大點子(2025 與 2026),可搜尋、篩選、中英切換。" />
+  <meta property="og:description" content="96 predictions from Andreessen Horowitz · stats overview · reality check · sortable table · bilingual." />
+  <meta property="og:image" content="./assets/og-image.svg" />
   <meta property="og:url" content="https://tingwei161803.github.io/a16z-big-ideas/" />
-
-  <!-- ==== Twitter ==== -->
+  <meta property="og:locale" content="zh_TW" />
+  <meta property="og:locale:alternate" content="en_US" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="a16z 科技大點子圖鑑 · Big Ideas Explorer" />
-  <meta name="twitter:description" content="Andreessen Horowitz 的 96 個科技大點子(2025 與 2026)。" />
+  <meta name="twitter:title" content="a16z Big Ideas Explorer" />
+  <meta name="twitter:description" content="96 a16z tech predictions across 2025 & 2026, bilingual, with a reality check." />
+  <meta name="twitter:image" content="./assets/og-image.svg" />
+  <link rel="canonical" href="https://tingwei161803.github.io/a16z-big-ideas/" />
 
-  <!-- ==== JSON-LD structured data ==== -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "a16z Big Ideas Explorer",
-    "description": "96 big ideas in tech from Andreessen Horowitz for 2025 and 2026.",
-    "url": "https://tingwei161803.github.io/a16z-big-ideas/"
+    "alternateName": "a16z 科技大點子圖鑑",
+    "url": "https://tingwei161803.github.io/a16z-big-ideas/",
+    "description": "Unofficial interactive bilingual explorer of Andreessen Horowitz's Big Ideas for 2025 and 2026.",
+    "inLanguage": ["zh-Hant", "en"],
+    "about": { "@type": "Organization", "name": "Andreessen Horowitz", "url": "https://a16z.com" }
   }
   </script>
 
-  <!-- ==== Fonts + icons (CDN, no local files) ==== -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Roboto+Flex:opsz,wght@8..144,400..700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Roboto+Flex:opsz,wght@8..144,400..700&family=Roboto+Mono:wght@400;500;600&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0&display=swap" rel="stylesheet" />
 
   <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='24' fill='%23ff6a3d'/><text x='50' y='72' font-size='44' text-anchor='middle' fill='white' font-family='monospace' font-weight='700'>a16</text></svg>" />
 </head>
 <body>
-  <!-- ==== App bar ==== -->
   <header class="appbar">
-    <div class="appbar__inner">
-      <a class="brand" href="#">
-        <span class="material-symbols-rounded brand__logo">lightbulb</span>
-        <span class="brand__text">
-          <span class="brand__name" data-i18n="brand">a16z 科技大點子圖鑑</span>
-          <span class="brand__sub" data-i18n="brandSub">96 個科技預測 · 2025 &amp; 2026</span>
-        </span>
-      </a>
-
-      <div class="appbar__actions">
-        <a class="gh-star" id="ghStar" href="https://github.com/tingwei161803/a16z-big-ideas" target="_blank" rel="noopener"
-           data-repo="tingwei161803/a16z-big-ideas" aria-label="GitHub repo">
-          <span class="material-symbols-rounded">star</span>
-          <span class="gh-star__label">Star</span>
-          <span class="gh-star__count" id="ghStarCount">—</span>
-        </a>
-
-        <button class="icon-btn" id="langToggle" type="button"
-                title="Language" aria-label="切換語言 / Toggle language">
-          <span class="material-symbols-rounded">translate</span>
-          <span class="icon-btn__txt" id="langLabel">EN</span>
-        </button>
-
-        <button class="icon-btn" id="themeToggle" type="button"
-                title="Theme" aria-label="切換深淺色 / Toggle theme">
-          <span class="material-symbols-rounded" id="themeIcon">dark_mode</span>
-        </button>
-      </div>
+    <div class="appbar__brand">
+      <span class="brand-mark">a16</span>
+      <span class="brand-text">
+        <span data-i18n="brand">a16z 科技大點子圖鑑</span>
+        <span class="brand-sub" data-i18n="brandSub">2025 + 2026 · 96 個科技預測</span>
+      </span>
     </div>
+
+    <a class="ghstar" id="ghStar" data-repo="tingwei161803/a16z-big-ideas"
+       href="https://github.com/tingwei161803/a16z-big-ideas" target="_blank" rel="noopener" aria-label="Star on GitHub">
+      <svg class="ghstar__logo" viewBox="0 0 16 16" aria-hidden="true" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      <span>Star</span>
+      <span class="ghstar__count" id="ghStarCount" hidden></span>
+    </a>
+
+    <div class="seg seg--lang" role="group" aria-label="Language">
+      <button id="langZh" data-lang="zh" aria-pressed="true">中文</button>
+      <button id="langEn" data-lang="en" aria-pressed="false">EN</button>
+    </div>
+    <button class="icon-btn" id="themeToggle" aria-label="Toggle theme" title="切換深淺色">
+      <span class="material-symbols-rounded" id="themeIcon">dark_mode</span>
+    </button>
   </header>
 
-  <!-- ==== Controls: search + year + category chips ==== -->
-  <section class="controls">
-    <div class="controls__inner">
-      <div class="controls__row">
-        <div class="search">
-          <span class="material-symbols-rounded search__icon">search</span>
-          <input class="search__input" id="searchInput" type="search"
-                 autocomplete="off" aria-label="搜尋 / Search"
-                 data-i18n-attr="placeholder" data-i18n="search"
-                 placeholder="搜尋大點子、作者、關鍵字…" />
-        </div>
-        <div class="seg" id="yearSeg" role="group" aria-label="Year"></div>
-      </div>
-      <div class="chips" id="chips" role="group" aria-label="Categories"></div>
-      <p class="result-count" id="resultCount" aria-live="polite"></p>
+  <section class="hero">
+    <span class="hero__eyebrow"><span class="dot"></span><span data-i18n="eyebrow">整理、翻譯自 a16z 官方 Big Ideas 系列</span></span>
+    <h1 data-i18n-html="heroTitle">a16z 押注 2025–26 的 <span class="grad">96 個大點子</span></h1>
+    <p data-i18n="heroDesc">把 Andreessen Horowitz 各團隊對 2025 與 2026 的科技預測,整理成一份可看統計、可查現況、可排序篩選、可雙語切換的互動圖鑑。</p>
+    <div class="hero__stats">
+      <div class="hero__stat"><b id="statIdeas" data-count="96">0</b><span data-i18n="statIdeas">大點子</span></div>
+      <div class="hero__stat"><b id="statYears" data-count="2">0</b><span data-i18n="statYears">年份</span></div>
+      <div class="hero__stat"><b id="statCats" data-count="10">0</b><span data-i18n="statCats">團隊分類</span></div>
+      <div class="hero__stat"><b id="statAuthors" data-count="0">0</b><span data-i18n="statAuthors">作者</span></div>
+      <div class="hero__stat hero__stat--accent"><b id="statChecked" data-count="6">0</b><span data-i18n="statChecked">現況查核</span></div>
+    </div>
+    <nav class="hero__nav" aria-label="Page navigation">
+      <a href="#viz"><span class="material-symbols-rounded">monitoring</span><span data-i18n="navViz">統計總覽</span></a>
+      <a href="#reality"><span class="material-symbols-rounded">fact_check</span><span data-i18n="navReality">現況查核</span></a>
+      <a href="#explorer"><span class="material-symbols-rounded">table_rows</span><span data-i18n="navExplorer">預測總表</span></a>
+      <a href="#categories"><span class="material-symbols-rounded">category</span><span data-i18n="navCategories">分類導覽</span></a>
+    </nav>
+  </section>
+
+  <!-- ===== Stats overview ===== -->
+  <section class="viz" id="viz" aria-labelledby="viz-heading">
+    <header class="section-head">
+      <h2 id="viz-heading" data-i18n="vizTitle">統計總覽</h2>
+      <p data-i18n="vizSub">把 96 個預測依分類與年份切開,一眼看出 a16z 的重心落在哪。</p>
+    </header>
+    <div class="viz-grid">
+      <figure class="viz-card">
+        <figcaption data-i18n="vizByCat">各分類預測數</figcaption>
+        <div class="chart-wrap"><canvas id="chartCat"></canvas></div>
+      </figure>
+      <figure class="viz-card">
+        <figcaption data-i18n="vizByYear">年份分布</figcaption>
+        <div class="chart-wrap"><canvas id="chartYear"></canvas></div>
+      </figure>
+      <figure class="viz-card viz-card--wide">
+        <figcaption data-i18n="vizHeatmap">分類 × 年份 熱力圖</figcaption>
+        <div class="heatmap-wrap"><div id="heatmap"></div></div>
+      </figure>
     </div>
   </section>
 
-  <!-- ==== Card grid ==== -->
-  <main class="grid" id="grid" aria-live="polite"></main>
+  <!-- ===== Reality check spotlight ===== -->
+  <section class="reality-spotlight" id="reality" aria-labelledby="reality-heading">
+    <header class="section-head">
+      <h2 id="reality-heading" data-i18n="realityTitle">現況查核 · 預測 vs 現實</h2>
+      <p data-i18n="realitySub">挑出 6 個旗艦預測,查證「到 2025–26 年實際發生了什麼」,並附上來源連結。</p>
+    </header>
+    <div class="reality-grid" id="reality-grid"></div>
+  </section>
 
-  <!-- Empty state -->
-  <p class="empty" id="empty" hidden data-i18n="empty">沒有符合的結果。</p>
+  <!-- ===== Predictions table ===== -->
+  <section class="explorer" id="explorer" aria-labelledby="explorer-heading">
+    <header class="section-head">
+      <h2 id="explorer-heading" data-i18n="explorerTitle">96 個預測總表</h2>
+      <p data-i18n="explorerSub">點欄位標題排序、用年份與分類交叉篩選、即時搜尋。點任一列看雙語詳情。</p>
+    </header>
 
-  <!-- ==== Detail dialog ==== -->
-  <dialog class="dialog" id="dialog">
+    <div class="controls">
+      <div class="search">
+        <span class="material-symbols-rounded">search</span>
+        <input id="searchInput" type="search" autocomplete="off" />
+        <button class="icon-btn search__clear" id="searchClear" aria-label="Clear" hidden>
+          <span class="material-symbols-rounded">close</span>
+        </button>
+      </div>
+      <div class="seg" id="yearSeg" role="group" aria-label="Year"></div>
+      <div class="result-count" id="resultCount" aria-live="polite"></div>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Categories"></div>
+
+    <div class="table-wrap" id="tableWrap"></div>
+    <p class="empty" id="empty" hidden></p>
+  </section>
+
+  <!-- ===== Category glossary ===== -->
+  <section class="glossary" id="categories" aria-labelledby="categories-heading">
+    <header class="section-head">
+      <h2 id="categories-heading" data-i18n="categoriesTitle">分類導覽</h2>
+      <p data-i18n="categoriesSub">a16z 把大點子依內部投資團隊分成這幾類,每類專注的主題不同。</p>
+    </header>
+    <div class="cat-grid" id="cat-grid"></div>
+  </section>
+
+  <footer class="site-foot">
+    <p data-i18n-html="footer">內容整理、翻譯自 <a href="https://a16z.com/big-ideas-in-tech-2025/" target="_blank" rel="noopener">a16z Big Ideas in Tech 2025</a> 與 <a href="https://a16z.com/newsletter/big-ideas-2026-part-1/" target="_blank" rel="noopener">Big Ideas 2026</a>。本站為非官方整理,內容僅供研究參考。</p>
+  </footer>
+
+  <!-- ===== Dialog ===== -->
+  <dialog class="dialog" id="dialog" aria-labelledby="dlg-title">
     <div class="dialog__bar">
-      <button class="icon-btn" id="navPrev" type="button" aria-label="上一個 / Previous">
-        <span class="material-symbols-rounded">chevron_left</span>
-      </button>
-      <button class="icon-btn" id="navNext" type="button" aria-label="下一個 / Next">
-        <span class="material-symbols-rounded">chevron_right</span>
-      </button>
+      <button class="icon-btn" id="navPrev" aria-label="Previous"><span class="material-symbols-rounded">chevron_left</span></button>
+      <button class="icon-btn" id="navNext" aria-label="Next"><span class="material-symbols-rounded">chevron_right</span></button>
       <span class="dialog__spacer"></span>
-      <button class="icon-btn" id="dialogClose" type="button" aria-label="關閉 / Close">
-        <span class="material-symbols-rounded">close</span>
-      </button>
+      <button class="icon-btn" id="dialogClose" aria-label="Close"><span class="material-symbols-rounded">close</span></button>
     </div>
     <div class="dialog__body" id="dialogBody"></div>
   </dialog>
 
-  <!-- ==== Footer ==== -->
-  <footer class="footer">
-    <p data-i18n-html="footer">
-      內容整理、翻譯自 <a href="https://a16z.com/big-ideas-in-tech-2025/" target="_blank" rel="noopener">a16z Big Ideas in Tech 2025</a>
-      與 <a href="https://a16z.com/newsletter/big-ideas-2026-part-1/" target="_blank" rel="noopener">Big Ideas 2026</a>。本站為非官方整理。
-    </p>
-  </footer>
+  <button class="to-top" id="toTop" aria-label="Back to top" hidden><span class="material-symbols-rounded">arrow_upward</span></button>
 
-  <!-- ==== Scripts (order matters: data first) ==== -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" integrity="sha384-9nhczxUqK87bcKHh20fSQcTGD4qq5GhayNYSYWqwBkINBhOfQLg/P5HG5lF1urn4" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="data/data.js"></script>
   <script src="assets/app.js"></script>
 </body>
