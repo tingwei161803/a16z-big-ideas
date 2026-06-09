@@ -8,7 +8,7 @@
 
 | | 網址 |
 |---|---|
-| 圖鑑 | **https://tingwei161803.github.io/a16z-big-ideas/** |
+| 圖鑑 | **https://a16z-big-ideas.peteraim.com/** |
 | 直接看某個點子 | 例如 `…/#2025-the-resurgence-of-nuclear`(每個預測都有專屬連結) |
 
 ## ✨ 功能特色
