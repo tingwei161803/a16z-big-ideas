@@ -84,7 +84,7 @@
 
   /* ---------- state ---------- */
   var state = {
-    lang:     localStorage.getItem("a16z.lang")  || "zh",
+    lang:     localStorage.getItem("a16z.lang")  || "en",
     theme:    localStorage.getItem("a16z.theme") ||
               (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"),
     search:   "",
