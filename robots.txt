@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a16z-big-ideas.peteraim.com/sitemap.xml
