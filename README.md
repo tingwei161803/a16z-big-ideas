@@ -53,7 +53,7 @@ uv run python data/_assemble.py
 
 ## 🧱 技術
 
-純 HTML / CSS / JavaScript,**零 build**(無 npm / 打包工具),Material Design 3。圖表用 [Chart.js](https://www.chartjs.org/)(CDN),熱力圖為純 CSS grid,皆隨主題 / 語言重繪。可直接部署到 GitHub Pages。由 [`lazy-data2web`](https://github.com/tingwei161803/my-claude-skill) skill 產生。
+純 HTML / CSS / JavaScript,**零 build**(無 npm / 打包工具),Material Design 3。圖表用 [Chart.js](https://www.chartjs.org/)(CDN),熱力圖為純 CSS grid,皆隨主題 / 語言重繪。可直接部署到 GitHub Pages。
 
 頁面分四個區塊:`#viz` 統計總覽 · `#reality` 現況查核 · `#explorer` 預測總表 · `#categories` 分類導覽,全部在單一 `index.html` 內以 `data/data.js`(`window.SITE_*`)驅動。
 
