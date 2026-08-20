@@ -165,10 +165,13 @@
       return '<span class="th-arrow th-arrow--on material-symbols-rounded">' +
              (state.sortDir === "asc" ? "arrow_upward" : "arrow_downward") + "</span>";
     };
+    /* sort key -> i18n key. Two of them don't match the sort key, so look the
+       label up explicitly rather than deriving it from the key. */
+    var COL_LABEL = { year: "colYear", category: "colCat", title: "colTitle", author: "colAuthor", checked: "colCheck" };
     var th = function (key, cls) {
       return '<th class="' + (cls || "") + '" data-sort="' + key + '" tabindex="0" ' +
              'aria-sort="' + (state.sortKey === key ? (state.sortDir === "asc" ? "ascending" : "descending") : "none") + '">' +
-             '<span>' + esc(ui("col" + key.charAt(0).toUpperCase() + key.slice(1))) + "</span>" + arrow(key) + "</th>";
+             '<span>' + esc(ui(COL_LABEL[key])) + "</span>" + arrow(key) + "</th>";
     };
 
     var rows = visible.map(function (item) {
