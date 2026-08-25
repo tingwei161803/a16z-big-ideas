@@ -4,7 +4,7 @@
      hero + animated stats · charts (Chart.js) · category×year heatmap ·
      reality-check spotlight · sortable/filterable predictions TABLE · glossary
    Reads (from data/data.js):
-     window.SITE_META, SITE_YEARS, SITE_CATEGORIES,
+     window.SITE_YEARS, SITE_CATEGORIES,
      window.SITE_DATA -> [{ slug, year, category, title:{en,zh}, author,
                             summary:{en,zh}, tags:[], source, part,
                             update?:{en,zh}, links?:[{title,url}] }]
@@ -15,7 +15,6 @@
   var DATA  = Array.isArray(window.SITE_DATA) ? window.SITE_DATA : [];
   var CATS  = Array.isArray(window.SITE_CATEGORIES) ? window.SITE_CATEGORIES : [];
   var YEARS = Array.isArray(window.SITE_YEARS) ? window.SITE_YEARS.slice() : [];
-  var META  = window.SITE_META || {};
 
   /* years ascending for charts/heatmap, e.g. ["2025","2026"] */
   var YEARS_ASC = YEARS.slice().sort();
@@ -83,8 +82,14 @@
   };
 
   /* ---------- state ---------- */
+  /* 網址決定語言:一個語言一個網址,頁面自己用 <html lang> 宣告是哪一種。
+     不要再從 localStorage 讀回來——落在 /en/ 的訪客就該看到英文,
+     即使他以前選過中文;而爬蟲根本沒有 localStorage。 */
+  var pageLang = (document.documentElement.getAttribute("lang") || "en")
+                   .toLowerCase().indexOf("zh") === 0 ? "zh" : "en";
+
   var state = {
-    lang:     localStorage.getItem("a16z.lang")  || "en",
+    lang:     pageLang,
     theme:    localStorage.getItem("a16z.theme") ||
               (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"),
     search:   "",
@@ -439,9 +444,6 @@
     localStorage.setItem("a16z.theme", state.theme);
   }
   function applyLang() {
-    document.documentElement.setAttribute("lang", state.lang === "zh" ? "zh-Hant" : "en");
-    localStorage.setItem("a16z.lang", state.lang);
-    if (META.title) document.title = t(META.title) + " · Big Ideas Explorer";
     var si = $("searchInput"); if (si) si.placeholder = ui("search");
     $$("[data-i18n],[data-i18n-html]").forEach(function (el) {
       var html = el.hasAttribute("data-i18n-html");
@@ -451,8 +453,8 @@
       if (html) el.innerHTML = dict[key]; else el.textContent = dict[key];
     });
     var lz = $("langZh"), le = $("langEn");
-    if (lz) lz.setAttribute("aria-pressed", String(state.lang === "zh"));
-    if (le) le.setAttribute("aria-pressed", String(state.lang === "en"));
+    if (lz) lz.setAttribute("aria-current", state.lang === "zh" ? "page" : "false");
+    if (le) le.setAttribute("aria-current", state.lang === "en" ? "page" : "false");
   }
 
   /* ============================ STAT COUNTERS ============================ */
@@ -488,9 +490,6 @@
   }
 
   /* ============================ WIRING ============================ */
-  function rerenderDynamic() {
-    renderCharts(); renderHeatmap(); renderReality(); renderCategories(); renderTable();
-  }
   function wire() {
     var si = $("searchInput"), sc = $("searchClear");
     si.addEventListener("input", function (e) {
@@ -503,16 +502,6 @@
     $("themeToggle").addEventListener("click", function () {
       state.theme = state.theme === "dark" ? "light" : "dark"; applyTheme();
     });
-    function setLang(lang) {
-      if (lang === state.lang) return;
-      state.lang = lang;
-      applyLang(); buildYears(); buildChips(); rerenderDynamic();
-      var open = location.hash.slice(1);
-      if (dialog.open && open) openDialog(open);
-    }
-    $("langZh").addEventListener("click", function () { setLang("zh"); });
-    $("langEn").addEventListener("click", function () { setLang("en"); });
-
     $("dialogClose").addEventListener("click", closeDialog);
     $("navPrev").addEventListener("click", function () { navBy(-1); });
     $("navNext").addEventListener("click", function () { navBy(1); });
